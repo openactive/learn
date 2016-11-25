@@ -1,0 +1,64 @@
+{
+  "_defaultLanguage": "en",
+  "_defaultDirection": "ltr",
+  "_questionWeight": 1,
+  "_generateSourcemap": false,
+  "_forceRouteLocking": true,
+  "screenSize": {
+    "small": 519,
+    "medium": 759,
+    "large": 1024
+  },
+  "_id": "581c767d4d7b7e82691e408a",
+  "_drawer": {
+    "_showEasing": "easeOutQuart",
+    "_hideEasing": "easeInQuart",
+    "_duration": 400
+  },
+  "_courseId": "581c767d4d7b7e82691e4089",
+  "_accessibility": {
+    "_isEnabled": false,
+    "_shouldSupportLegacyBrowsers": true,
+    "_isTextProcessorEnabled": false
+  },
+  "__v": 0,
+  "_trackingHub": {
+    "_channels": [
+      {
+        "_isStateSource": true,
+        "_saveStateIsEnabled": true,
+        "_transport": {
+          "_auth": {
+            "_password": "",
+            "_username": ""
+          },
+          "_endpoint": "https://lms2.learndata.info/api/v2/",
+          "_handlerName": "ODILRSStorageTransportHandler"
+        },
+        "_msgComposerName": "learnifyMessageComposer",
+        "_isEnabled": true,
+        "_name": "ODI LRS"
+      }
+    ],
+    "_courseID": "http://sport.learndata.info",
+    "_isEnabled": true
+  },
+  "_tutor": {
+    "_isEnabled": false
+  },
+  "build": {
+    "includes": [
+      "adapt-theme-se",
+      "adapt-contrib-boxMenu",
+      "adapt-contrib-pageLevelProgress",
+      "adapt-contrib-tutor",
+      "adapt-skillsFramework",
+      "adapt-trackingHub",
+      "adapt-contrib-text",
+      "adapt-contrib-graphic",
+      "adapt-contrib-narrative",
+      "adapt-contrib-accordion",
+      "adapt-contrib-mcq"
+    ]
+  }
+}

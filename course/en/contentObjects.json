@@ -1,0 +1,138 @@
+[
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/be470020848ed617d92d832679da7b45a19059ec.png"
+    },
+    "_id": "581c76824d7b7e82691e408b",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "What is open data and how can it help the physical activity sector?",
+    "title": "What is open data and how can it help the physical activity sector?",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Understand open data",
+          "credits": 10,
+          "level": "explorer"
+        }
+      ]
+    },
+    "_trackingHub": {
+      "_pageID": "sport-1"
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/29ee08e77301fecc8894a8b1ccc9ee6f7a83d7ca.png"
+    },
+    "_id": "5824a05c4d7b7e82691e4251",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "How do I create impact for my organisation from open data?",
+    "title": "How do I create impact for my organisation from open data?",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Adapt open data to the relevant business",
+          "credits": 10,
+          "level": "strategist"
+        }
+      ]
+    },
+    "_trackingHub": {
+      "_pageID": "sport-2"
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/938032f8502e086c2db35d514c066cfa718da32b.png"
+    },
+    "_id": "5821e1594d7b7e82691e413f",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "How do I prioritise which data to publish?",
+    "title": "How do I prioritise which data to publish?",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "prioritise which data to publish",
+          "credits": 10,
+          "level": "strategist"
+        }
+      ]
+    },
+    "_trackingHub": {
+      "_pageID": "sport-3"
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/f47393b9bd20f6e421d25cedd6ffd0d7d4d24f39.png"
+    },
+    "_id": "582477504d7b7e82691e41a7",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "How do I make sure I publish data in the right way?",
+    "title": "How do I make sure I publish data in the right way?",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Understand the correct way to publish data",
+          "credits": 10,
+          "level": "strategist"
+        }
+      ]
+    },
+    "_trackingHub": {
+      "_pageID": "sport-4"
+    }
+  }
+]
