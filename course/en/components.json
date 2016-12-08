@@ -1,5 +1,424 @@
 [
   {
+    "_id": "581c791f4d7b7e82691e40be",
+    "_layout": "right",
+    "_parentId": "581c791f4d7b7e82691e40bc",
+    "_type": "component",
+    "body": "<p>What does open data have the power to do?</p>\n",
+    "displayTitle": "Why does the physical activity sector need open data?",
+    "title": "Why does the physical activity sector need open data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": " Give access to other datasets",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Unlock social, environmental and economic value",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": " Make the sports providers accountable",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s right.</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure?</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "584928ca4d7b7e82691e4c1c",
+    "_layout": "right",
+    "_parentId": "584928ca4d7b7e82691e4bdd",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/34d9d55056a21925974346e3c74661359d7083c6.png",
+      "small": "course/en/assets/34d9d55056a21925974346e3c74661359d7083c6.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584928ce4d7b7e82691e4c39",
+    "_layout": "right",
+    "_parentId": "584928ce4d7b7e82691e4c2b",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/21d638508a78a46d2d0d79095fef8880344e76cb.png",
+      "small": "course/en/assets/21d638508a78a46d2d0d79095fef8880344e76cb.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584928ce4d7b7e82691e4c47",
+    "_layout": "right",
+    "_parentId": "584928ce4d7b7e82691e4c2c",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "",
+    "title": "   ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Assess the value",
+        "body": "<p>Value measures how much benefit your organisation and the potential users would get from publishing a particular dataset.</p>\n\n<p>The longer the list of expected benefits to you and to the data users, the higher the value of that dataset. Some datasets will have a high value if publishing them can create lots of different benefits. Others will have little value because they would only benefit a few people.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Understand the risk",
+        "body": "<p>Risk measures how sensitive the publication of this dataset is. The higher the risk of the dataset, the greater the likelihood that publishing it could have a negative impact on your organisation or on some users.</p>\n\n<p>Most assets will be low risk as sharing them will not jeopardise&nbsp;sensitive organisational details or bring undue scrutiny on users. A few will be more risky because they might expose personal information about employees or participants.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Map your datasets",
+        "body": "<p>Use the matrix to the right of this box to plot your datasets using the measures of value and risk.</p>\n\n<p>Place a point for each dataset in the correct section of the matrix and label it clearly.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "List them in order",
+        "body": "<p>Once your datasets are mapped to the matrix, rank them in the order of publication. Start with those in the top-right quadrant (the no-brainers). Follow these with the top-left (no-hurries) then bottom-right (no-hopers_ and finally bottom-left (no-chancers).</p>\n\n<p>Start your release with the no-brainers as these combine low risk with high value.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "584928ce4d7b7e82691e4c74",
+    "_layout": "right",
+    "_parentId": "584928ce4d7b7e82691e4c2d",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
+      "small": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584928ce4d7b7e82691e4c83",
+    "_layout": "right",
+    "_parentId": "584928ce4d7b7e82691e4c2f",
+    "_type": "component",
+    "body": "<p>Which factors should you consider when deciding which data to publish?</p>\n",
+    "displayTitle": "Deciding what to publish",
+    "title": "Deciding what to publish",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Value & risk",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Size & shape",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Activity type & frequency",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&rsquo;s right!</strong></p>\n\n<p>Data is the lowest level of raw material from which information and knowledge can be derived.</p>\n",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p>\n\n<p>Data is the lowest level of raw material from which information and knowledge can be derived.</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "584928ce4d7b7e82691e4ccd",
+    "_layout": "right",
+    "_parentId": "584928ce4d7b7e82691e4c35",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "   ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584928cf4d7b7e82691e4cdc",
+    "_layout": "left",
+    "_parentId": "584928ce4d7b7e82691e4c35",
+    "_type": "component",
+    "body": "<p>&nbsp;</p>\n\n<ul dir=\"ltr\">\n</ul>\n",
+    "displayTitle": "Are you ready to prioritise your data for publication?",
+    "title": "Are you ready to prioritise your data for publication?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "584944a64d7b7e82691e4dd3",
+    "_layout": "left",
+    "_parentId": "58493b274d7b7e82691e4dd0",
+    "_type": "component",
+    "body": "<p>What is the benefit of having open physical activities&nbsp;data?</p>\n",
+    "displayTitle": "Changing society",
+    "title": "Changing society",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": " Choose an answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "It makes membership cheaper",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "It improves access to physical activities",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "It increases the number of sports centres",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&rsquo;s right!</p>\n\n<p>Open physical activities&nbsp;data makes it easier to find,&nbsp;access and compare&nbsp;activities, facilities and classes.</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure?</p>\n\n<p>Open physical activities&nbsp;data makes it easier to find,&nbsp;access and compare&nbsp;activities, facilities and classes.</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58493b374d7b7e82691e4dd2",
+    "_layout": "right",
+    "_parentId": "58493b274d7b7e82691e4dd0",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f4b7a83ca6a5ee395ea40ef51b5e6d07ac2e288e.jpg",
+      "small": "course/en/assets/f4b7a83ca6a5ee395ea40ef51b5e6d07ac2e288e.jpg",
+      "attribution": ""
+    }
+  },
+  {
     "_id": "58385db64d7b7e82691e4798",
     "_layout": "left",
     "_parentId": "58385db64d7b7e82691e4797",
@@ -7,6 +426,659 @@
     "body": "",
     "displayTitle": "Are you ready to create impact for your organisation from open data?",
     "title": "Are you ready to create impact for your organisation from open data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "584928ca4d7b7e82691e4be6",
+    "_layout": "left",
+    "_parentId": "584928ca4d7b7e82691e4bd5",
+    "_type": "component",
+    "body": "<p>Open data has the power to help grow economies, transform societies and increase efficiency.</p>\n\n<p>Physical activity providers can use open data to get more people involved, create better experiences for participants and create new products and services that will help more people get active.&nbsp;</p>\n\n<p>Ready to get hands on? In the next module we explore how to prioritise which data to publish.</p>\n",
+    "displayTitle": "Ready to create impact?",
+    "title": "Ready to create impact?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "584928ca4d7b7e82691e4be7",
+    "_layout": "right",
+    "_parentId": "584928ca4d7b7e82691e4bd5",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
+      "small": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584928ca4d7b7e82691e4bee",
+    "_layout": "left",
+    "_parentId": "584928ca4d7b7e82691e4bd6",
+    "_type": "component",
+    "body": "<p>Physical activity providers can use open data to get more people involved, create better experiences for participants and run their organisations more efficiently.&nbsp;</p>\n\n<p>In this module, we explore how the public sector, businesses and individuals are using open data to create impact.</p>\n\n<p>In this module we&rsquo;ll explore the following:</p>\n\n<ul>\n\t<li>Opportunities for the public sector&nbsp;</li>\n\t<li>Innovation and growth in business</li>\n\t<li>Changing society</li>\n</ul>\n\n<p>&nbsp;</p>\n",
+    "displayTitle": "Creating impact from open data",
+    "title": "Creating impact from open data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "584928ca4d7b7e82691e4bef",
+    "_layout": "right",
+    "_parentId": "584928ca4d7b7e82691e4bd6",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/4a5548a294f4e953d38166b6fbe45df470a36676.png",
+      "small": "course/en/assets/4a5548a294f4e953d38166b6fbe45df470a36676.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584928ca4d7b7e82691e4bf7",
+    "_layout": "right",
+    "_parentId": "584928ca4d7b7e82691e4bd8",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a0b64fbcfb16d3b4f910241fc4c23532f28b16eb.png",
+      "small": "course/en/assets/a0b64fbcfb16d3b4f910241fc4c23532f28b16eb.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584928ca4d7b7e82691e4c0c",
+    "_layout": "left",
+    "_parentId": "584928ca4d7b7e82691e4bdb",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f4b7a83ca6a5ee395ea40ef51b5e6d07ac2e288e.jpg",
+      "small": "course/en/assets/f4b7a83ca6a5ee395ea40ef51b5e6d07ac2e288e.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584928ca4d7b7e82691e4c1b",
+    "_layout": "left",
+    "_parentId": "584928ca4d7b7e82691e4bdd",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Are you ready to create impact from open data?",
+    "title": "Are you ready to create impact from open data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "584928ce4d7b7e82691e4c48",
+    "_layout": "left",
+    "_parentId": "584928ce4d7b7e82691e4c2c",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/77128fd63d5f1eba87fefdd18c1eb4a90f6272ec.png",
+      "small": "course/en/assets/77128fd63d5f1eba87fefdd18c1eb4a90f6272ec.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584928ce4d7b7e82691e4c73",
+    "_layout": "left",
+    "_parentId": "584928ce4d7b7e82691e4c2d",
+    "_type": "component",
+    "body": "<p>Any physical activity dataset can be made open provided it does not contain personal details or sensitive information. &nbsp;Your organisation&nbsp;needs to prioritise data that will make the greatest impact both for your organisation and for potential users, because&nbsp;data takes time to clean, publish and promote.</p>\n",
+    "displayTitle": "Choosing the right data to publish",
+    "title": "Choosing the right data to publish",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "584928ce4d7b7e82691e4c78",
+    "_layout": "left",
+    "_parentId": "584928ce4d7b7e82691e4c2e",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/0418c08832469a76dfed234441c353f52da122ee.png",
+      "small": "course/en/assets/0418c08832469a76dfed234441c353f52da122ee.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584928ce4d7b7e82691e4c84",
+    "_layout": "left",
+    "_parentId": "584928ce4d7b7e82691e4c2f",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8be028ca0cb2fb6873cbdceb0dfc2899e41bedaf.png",
+      "small": "course/en/assets/8be028ca0cb2fb6873cbdceb0dfc2899e41bedaf.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584928ce4d7b7e82691e4ca3",
+    "_layout": "full",
+    "_parentId": "584928ce4d7b7e82691e4c32",
+    "_type": "component",
+    "body": "<p>To understand the impact of the data you plan to publish, you need to take a&nbsp;demand-focused approach. A demand-focussed approach&nbsp;examines what benefits the users of your data will get from it. When you consider how users will benefit from your data, you can better understand which data has the greatest potential impact and prioritise publishing it. &nbsp;You can also understand what features of the data make it useable by others.</p>\n\n<p>Below are some of the benefits users may get from physical activity open data:</p>\n",
+    "displayTitle": "How can I understand how what I publish might make an impact?",
+    "title": "How can I understand how what I publish might make an impact?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "584928ce4d7b7e82691e4ca4",
+    "_layout": "full",
+    "_parentId": "584928ce4d7b7e82691e4c33",
+    "_type": "component",
+    "body": "<p>Deciding which data to publish requires trade-offs. Data takes time to clean up, prepare and make available, so you cant open everything at once. In addition some datasets, like those containing personal details of participants, should not be&nbsp;made open. To decide where to focus your efforts, you need to weigh up the benefits and risks of publishing different types of data and then make a decision.</p>\n\n<p>Your decision about which data to publish is ultimately based on the unique situation of your organisation. However, certain things are universal no matter who you are:</p>\n",
+    "displayTitle": "How do I decide what data to publish?",
+    "title": "How do I decide what data to publish?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "584928cf4d7b7e82691e4cdd",
+    "_layout": "right",
+    "_parentId": "584928ce4d7b7e82691e4c36",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/4a5548a294f4e953d38166b6fbe45df470a36676.png",
+      "small": "course/en/assets/4a5548a294f4e953d38166b6fbe45df470a36676.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584928cf4d7b7e82691e4ce2",
+    "_layout": "left",
+    "_parentId": "584928ce4d7b7e82691e4c37",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8be028ca0cb2fb6873cbdceb0dfc2899e41bedaf.png",
+      "small": "course/en/assets/8be028ca0cb2fb6873cbdceb0dfc2899e41bedaf.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584928f24d7b7e82691e4cff",
+    "_layout": "left",
+    "_parentId": "584928f24d7b7e82691e4cf4",
+    "_type": "component",
+    "body": "<p>There are three technical considerations as part of the standards for publishing open data, one of which is...</p>\n",
+    "displayTitle": "Technical considerations",
+    "title": "Technical considerations",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "whether it can it be used on a computer",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "whether it takes up much bandwidth",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "what format the open data is published in",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&rsquo;s right!</strong></p>\n\n<p>There are three recommendations that define the technical aspects of open data. The format in which the data is published in, the structure of the data and the channels through which the data is available.</p>\n",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p>\n\n<p>There are three recommendations that define the technical aspects of open data. The format in which the data is published in, the structure of the data and the channels through which the data is available.</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "584928f24d7b7e82691e4d5f",
+    "_layout": "right",
+    "_parentId": "584928f24d7b7e82691e4cfa",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/4a5548a294f4e953d38166b6fbe45df470a36676.png",
+      "small": "course/en/assets/4a5548a294f4e953d38166b6fbe45df470a36676.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584928f34d7b7e82691e4da3",
+    "_layout": "left",
+    "_parentId": "584928f24d7b7e82691e4cfe",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Are you ready to ensure quality open data?",
+    "title": "Are you ready to ensure quality open data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58493b004d7b7e82691e4dcb",
+    "_layout": "left",
+    "_parentId": "58493aef4d7b7e82691e4dca",
+    "_type": "component",
+    "body": "<p>Open data awareness is no longer a luxury for public servants, it is now...</p>\n",
+    "displayTitle": "Opportunities for the public sector",
+    "title": "Opportunities for the public sector",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose an answer, then click Submit",
+    "_items": [
+      {
+        "text": "a little more important than it used to be",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "something that should be researched more",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "a crucial part of modern service delivery",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&rsquo;s right!</p>\n\n<p>A new generation of voters across the world have grown to expect a digitally literate and engaged public sector.</p>\n\n<p>&nbsp;</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure?</p>\n\n<p>A new generation of voters across the world have grown to expect a digitally literate and engaged public sector.</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58493b054d7b7e82691e4dcc",
+    "_layout": "right",
+    "_parentId": "58493aef4d7b7e82691e4dca",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ceffd3b92f2604341e15f3765354d05c766d19de.png",
+      "small": "course/en/assets/ceffd3b92f2604341e15f3765354d05c766d19de.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "58493b124d7b7e82691e4dce",
+    "_layout": "left",
+    "_parentId": "58493b084d7b7e82691e4dcd",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a0b64fbcfb16d3b4f910241fc4c23532f28b16eb.png",
+      "small": "course/en/assets/a0b64fbcfb16d3b4f910241fc4c23532f28b16eb.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584963ba4d7b7e82691e4de7",
+    "_layout": "left",
+    "_parentId": "584963ad4d7b7e82691e4de6",
+    "_type": "component",
+    "body": "<p>Which of the following are errors in data that require cleaning?</p>\n",
+    "displayTitle": "Improving quality",
+    "title": "Improving quality",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose three answers and click Submit",
+    "_items": [
+      {
+        "text": "Multiple representations",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Lack of licence",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Lack of granularity",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Mixed numerical scales",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Redundant data",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s right!</p>\n\n<p>Mixed use of scales, redundant data and multiple representations of the same data are just some of the errors that need to be fixed in unclean data. While the granularity and lack of licence are a problem, they are not related to the data itself being unclean.</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure?</p>\n\n<p>Mixed use of scales, redundant data and multiple representations of the same data are just some of the errors that need to be fixed in unclean data. While the granularity and lack of licence are a problem, they are not related to the data itself being unclean.</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "584928f24d7b7e82691e4d3d",
+    "_layout": "left",
+    "_parentId": "584928f24d7b7e82691e4cf7",
+    "_type": "component",
+    "body": "<p>To enjoy these benefits, users need to trust&nbsp;that the data is of good enough quality and they need to be able to use it.</p>\n\n<p>Open data becomes usable when a human can understand it and a machine can manipulate it.</p>\n\n<p>Both of these require the permission of the publisher, granted via an open licence. However, the open licence alone is not sufficient to guarantee the usability of data. Simply putting a file on a website with an open licence does not constitute open data.</p>\n\n<p>It is unlikely that users will be able to properly engage with unusable data to derive insights and demonstrate benefits.</p>\n\n<p>Be aware that cleaning may take longer than you think. A careful cleaning process will, however, save substantial time in the long-run.</p>\n",
+    "displayTitle": "Quality open data",
+    "title": "Quality open data",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -86,11 +1158,62 @@
     }
   },
   {
+    "_id": "584928cf4d7b7e82691e4ce0",
+    "_layout": "left",
+    "_parentId": "584928ce4d7b7e82691e4c36",
+    "_type": "component",
+    "body": "<p>Any physical activity dataset can be made open provided it does not contain personal details or sensitive information. &nbsp;Your organisation&nbsp;needs to prioritise data that will make the greatest impact both for your organisation and for potential users, because&nbsp;data takes time to clean, publish and promote.</p>\n\n<p>In this module we&rsquo;ll explore the following:</p>\n\n<ul>\n\t<li dir=\"ltr\">\n\t<p dir=\"ltr\">Where do I start?</p>\n\t</li>\n\t<li dir=\"ltr\">\n\t<p dir=\"ltr\">What factors need to be considered when prioritising which data to publish?</p>\n\t</li>\n\t<li dir=\"ltr\">\n\t<p dir=\"ltr\">What is opportunity data?</p>\n\t</li>\n\t<li dir=\"ltr\">Why should opportunity data be priority data?</li>\n</ul>\n\n<p>&nbsp;</p>\n",
+    "displayTitle": "Prioritising which data to publish ",
+    "title": "Prioritising which data to publish ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "584928f24d7b7e82691e4d62",
+    "_layout": "left",
+    "_parentId": "584928f24d7b7e82691e4cfa",
+    "_type": "component",
+    "body": "<p>Publishing open physical activity data can bring benefits to organisations and individuals. &nbsp;To enjoy these benefits, users need to trust&nbsp;that the data is of good enough quality and they need to be able to use it.</p>\n\n<p>In this module we&rsquo;ll explore the following:</p>\n\n<ul>\n\t<li>What is open data quality?</li>\n\t<li>What open data standards make data usable?</li>\n\t<li>Marques of quality</li>\n\t<li>Improving quality</li>\n</ul>\n\n<p>&nbsp;</p>\n",
+    "displayTitle": "Ensuring quality data",
+    "title": "Ensuring quality data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "584939424d7b7e82691e4dc9",
+    "_layout": "left",
+    "_parentId": "584928ca4d7b7e82691e4bd8",
+    "_type": "component",
+    "body": "<p>Open data is supporting innovation and growth by revealing opportunities for businesses large and small to build new services, identify savings and improve operations.</p>\n\n<p>In Paris, caf&eacute; owners are using open data to attract tourists to the&nbsp;<a href=\"https://web.archive.org/web/20150515035949/http://www.paris.fr/accueil/paris-mag/ou-boire-un-cafe-pour-1-a-paris/rub_9683_actu_116311_port_23863\" target=\"_blank\">city&#39;s most affordable coffees</a>, while, in Iceland, farmers are using&nbsp;<a href=\"http://weblog.linkingpaths.com/post/78767700473/icelandic-open-data-lambs-and-maps\" target=\"_blank\">open data about the quality of their lambs</a>to attract new customers.</p>\n\n<p>Open data stimulates innovation by removing barriers to access, use and shareability of data.</p>\n\n<p>Data literacy is a core skill for businesses looking to take advantage of the opportunities open data offers to create new value and improve operations.</p>\n",
+    "displayTitle": "Innovation and growth in businesses",
+    "title": "Innovation and growth in businesses",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
     "_id": "581c78654d7b7e82691e40a7",
     "_layout": "left",
     "_parentId": "581c76824d7b7e82691e408d",
     "_type": "component",
-    "body": "<p>Open data is&nbsp;<strong>data</strong>&nbsp;that&nbsp;<strong>anyone</strong>&nbsp;can&nbsp;<strong>access</strong>,&nbsp;<strong>use</strong>&nbsp;and&nbsp;<strong>share</strong>. Governments, businesses and individuals can use open data to bring about social, economic and environmental benefits.</p>\n\n<p>In this module we&rsquo;ll explore the following:</p>\n\n<ul>\n\t<li>What is open data?</li>\n\t<li>What is data?</li>\n\t<li>What makes data open?</li>\n\t<li>Why&nbsp;is open data needed in the physical activity sector?</li>\n</ul>\n\n<p>&nbsp;</p>\n",
+    "body": "<p>Open data is&nbsp;<strong>data</strong>&nbsp;that&nbsp;<strong>anyone</strong>&nbsp;can&nbsp;<strong>access</strong>,&nbsp;<strong>use</strong>&nbsp;and&nbsp;<strong>share</strong>. Governments, businesses and individuals can use open data to bring about social, economic and environmental benefits.</p>\n\n<p>In this module we&rsquo;ll explore the following:</p>\n\n<ul>\n\t<li>What is open data?</li>\n\t<li>What is data?</li>\n\t<li>What makes data open?</li>\n\t<li>Why does the physical activity sector need open data?</li>\n</ul>\n\n<p>&nbsp;</p>\n",
     "displayTitle": "What is open data and how can it help the physical activity sector?",
     "title": "What is open data and how can it help the physical activity sector?",
     "_isAvailable": true,
@@ -240,7 +1363,7 @@
   },
   {
     "_id": "581c79004d7b7e82691e40b5",
-    "_layout": "right",
+    "_layout": "left",
     "_parentId": "581c79004d7b7e82691e40b4",
     "_type": "component",
     "body": "<p><strong>Open data is...</strong></p>\n",
@@ -317,7 +1440,7 @@
   },
   {
     "_id": "581c79144d7b7e82691e40b9",
-    "_layout": "left",
+    "_layout": "right",
     "_parentId": "581c79144d7b7e82691e40b8",
     "_type": "component",
     "body": "<p><strong>Data is...</strong></p>\n",
@@ -398,8 +1521,8 @@
     "_parentId": "581c79314d7b7e82691e40c0",
     "_type": "component",
     "body": "<p><strong>Open data should be...</strong></p>\n",
-    "displayTitle": "What are the restrictions on the use of open data?",
-    "title": "What are the restrictions on the use of open data?",
+    "displayTitle": "What makes data open?",
+    "title": "What makes data open?",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -470,67 +1593,6 @@
     }
   },
   {
-    "_id": "581c791f4d7b7e82691e40be",
-    "_layout": "right",
-    "_parentId": "581c791f4d7b7e82691e40bc",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "How can the physical activity sector benefit from open data?",
-    "title": "How can the physical activity sector benefit from open data?",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "mcq",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "",
-    "_items": [],
-    "_attempts": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": false,
-    "_recordInteraction": true,
-    "_questionWeight": 1,
-    "_selectable": 1,
-    "_feedback": {
-      "correct": "<p>Thars rights</p>\n",
-      "_incorrect": {
-        "final": "<p>Are you sure?</p>\n",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
     "_id": "581c79314d7b7e82691e40c2",
     "_layout": "right",
     "_parentId": "581c79314d7b7e82691e40c0",
@@ -555,7 +1617,7 @@
   },
   {
     "_id": "581c79004d7b7e82691e40b6",
-    "_layout": "left",
+    "_layout": "right",
     "_parentId": "581c79004d7b7e82691e40b4",
     "_type": "component",
     "body": "",
@@ -578,7 +1640,7 @@
   },
   {
     "_id": "581c79144d7b7e82691e40ba",
-    "_layout": "right",
+    "_layout": "left",
     "_parentId": "581c79144d7b7e82691e40b8",
     "_type": "component",
     "body": "",
@@ -594,8 +1656,8 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/assets/058efd2b2a6d2b093d8172d6add76eef8fe8d06b.jpg",
-      "small": "course/assets/058efd2b2a6d2b093d8172d6add76eef8fe8d06b.jpg",
+      "large": "course/en/assets/ec7529be2f11d06ce25c6646a724e104cf2ff910.jpg",
+      "small": "course/en/assets/ec7529be2f11d06ce25c6646a724e104cf2ff910.jpg",
       "attribution": ""
     }
   },
@@ -604,9 +1666,9 @@
     "_layout": "left",
     "_parentId": "581c785b4d7b7e82691e40a6",
     "_type": "component",
-    "body": "<p>Open data is <strong>data that anyone can access, use and share</strong>.</p>\n\n<p>Open data is a raw material for the digital age but, unlike coal, timber or diamonds, it can be used by anyone and everyone at the same time.</p>\n\n<p>Any restrictions imposed on the use of open data will limit its potential for creating new value.</p>\n\n<p>Open data can bring diverse benefits to the physical activity sector. It has the power to help improve services, grow participation and create a healthier population.</p>\n\n<p>In the next module, we will explore ways your organisation can get value from open data</p>\n",
-    "displayTitle": "Open data and the physical activity sector",
-    "title": "Open data and the physical activity sector",
+    "body": "<p>Open data is <strong>data that anyone can access, use and share</strong>.</p>\n\n<p>Open data is a raw material for the digital age but, unlike coal, timber or diamonds, it can be used by anyone and everyone at the same time.</p>\n\n<p>Any restrictions imposed on the use of open data will limit its potential for creating new value.</p>\n\n<p>Open data can bring diverse benefits to the physical activity sector. It has the power to help improve services, grow participation and create a healthier population.</p>\n\n<p>Ready to make a difference? In the next module, we will explore ways that open data creates impact.</p>\n",
+    "displayTitle": "Open data in the physical activity sector",
+    "title": "Open data in the physical activity sector",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -1932,9 +2994,9 @@
     "_layout": "right",
     "_parentId": "581c78534d7b7e82691e40a0",
     "_type": "component",
-    "body": "<p>In England, 57% of adults do not play sport. A &#39;lack of information on what&#39;s available&#39; is one of a number of factors that prevent people from exercising enough. Publishing data openly will help physical activity providers and locations get more people engaged. &nbsp;Better use of data across the sector also creates value from improved operational efficiency and&nbsp;as a basis for innovation.</p>\n",
-    "displayTitle": "Why does the sports sector need open data?",
-    "title": "Why does the sports sector need open data?",
+    "body": "<p>In England, 57% of adults do not play sport. A &#39;lack of information on what&#39;s available&#39; is one of a number of factors that prevent people from exercising enough. Publishing data openly will&nbsp;get more people active.</p>\n",
+    "displayTitle": "Why does the physical activity sector need open data?",
+    "title": "Why does the physical activity sector need open data?",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -1945,8 +3007,8 @@
     "instruction": "",
     "_items": [
       {
-        "title": "Finding and Booking Activities",
-        "body": "<p>As in other sectors, like travel, enabling people to easily find and book activities will help increase participation. &nbsp;</p>\n\n<p>By publishing data openly providers will make it easier for websites and apps to reuse and share data, and create information that people can act on.</p>\n",
+        "title": "Improving the users' experience",
+        "body": "<p>Enabling people to easily find and book activities will help increase participation. &nbsp;</p>\n\n<p>By publishing data openly, providers will make it easier for websites and apps to reuse and share data, and create information that people can act on.</p>\n\n<p>This will improve user satisfaction and ultimately create a better experience for participants.</p>\n",
         "_graphic": {
           "alt": "",
           "src": ""
@@ -1955,25 +3017,7 @@
       },
       {
         "title": "Creating innovation in the sector",
-        "body": "<p>Open data is driving a new wave of innovative apps, websites and products. &nbsp;By&nbsp;publishing data openly providers and national bodies can help stimulate the development of new ideas for getting people active.</p>\n",
-        "_graphic": {
-          "alt": "",
-          "src": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Improving your organisation's performance",
-        "body": "<p>By making data more easily accessible organisations can improve the way they are run. &nbsp; This can happen in a number of ways [a slider might be better for this]</p>\n\n<p><strong>Eliminating organisational</strong> silos by allowing data to move freely between departments. &nbsp;This reduces the cost of finding, sharing and understanding data. &nbsp;It also improves how different departments understand each other and work together.</p>\n\n<p><strong>Using data to make better decisions&nbsp;</strong>by ensuring that everyone involved has timely access to relevant and accurate data from across an organisation and from other sources.&nbsp;</p>\n\n<p><strong>Better external communications. &nbsp;</strong>Opening data has a proven track record in helping to secure positive media coverage. The rise of data journalism has created a need for alternative channels that traditional releases and media alerts cannot reach. Open data increases perceived neutrality and trust among the public that articles have not been&nbsp;&lsquo;spun&rsquo;.</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
-        "_graphic": {
-          "alt": "",
-          "src": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Creating a better experience for participants",
-        "body": "<p>By improving the way data and information gets to participants you can improve satisfaction with the services you provide. &nbsp;Whether that&#39;s clearer locations and opening times, or access to data that helps participants improve their development.</p>\n",
+        "body": "<p>Open data is driving a new wave of innovative apps, websites and products. &nbsp;By&nbsp;publishing data openly providers and national bodies can help stimulate the development of new ideas and ways for getting people active.</p>\n",
         "_graphic": {
           "alt": "",
           "src": ""
@@ -2937,6 +3981,1114 @@
       "alt": "",
       "large": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
       "small": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584928ca4d7b7e82691e4c13",
+    "_layout": "right",
+    "_parentId": "584928ca4d7b7e82691e4bdb",
+    "_type": "component",
+    "body": "<p>Open data is unlocking new social value and enabling data-driven decisions across a wide range of sectors. In the physical activities sector, this means getting more people active.</p>\n",
+    "displayTitle": "Changing society",
+    "title": "Changing society",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the headings to explore further.",
+    "_items": [
+      {
+        "title": "Improving discoverability",
+        "body": "<p>Many opportunities to do physical activity are hidden away in old old-fashioned websites, social media groups, PDFs or printed flyers.</p>\n\n<p>Publishing this data openly in a standardised format enables&nbsp;consumers to&nbsp;easily discover what activities are available to them.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Improving accessibility",
+        "body": "<p>Once people know where to look, open data can provide access</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "584928ce4d7b7e82691e4c38",
+    "_layout": "left",
+    "_parentId": "584928ce4d7b7e82691e4c2b",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "",
+    "title": "   ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Open data develops the skills of your workforce",
+        "body": "<p>Data, not just open data, is now a core aspect of many people&rsquo;s jobs. However, not everyone has the skills required to manage, clean and interpret data.</p>\n\n<p>Open data creates opportunities to increase the level of data literacy in the workforce by raising public awareness of data skills.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Open data lets your business innovate",
+        "body": "<p>Open data is a key enabler of open innovation.</p>\n\n<p>Opening data can encourage people within an organisation to communicate with each other and with external groups.</p>\n\n<p>Plume Labs, a French startup, combined open data on air quality with advanced monitoring and visualisations to provide the latest air pollution indicators for 18 European cities</p>\n\n<p><a href=\"https://www.plumelabs.com/\" target=\"_blank\">Take me to Plume Labs</a></p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Open data boosts your business",
+        "body": "<p>For businesses, opening data can improve relationships with consumers and open up new customer channels.</p>\n\n<p>Thomson Reuters has opened up its identifiers data to make the data it holds discoverable, easy to access and use.</p>\n\n<p><a href=\"http://innovation.thomsonreuters.com/en/labs/data-identifiers.html\" target=\"_blank\">Take me to Thomson Reuters site</a></p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Open data changes the discussion around physical activity",
+        "body": "<p>Open data has the ability to bring about change within societies.</p>\n\n<p>For example, the Swiss government found that opening up their transport safety data gave people greater clarity around accidents. The mapping of this information gives people a more interactive way to engage with the data.</p>\n\n<p><a href=\"http://unfallkarte.ch/en/\" target=\"_blank\">Take me to the Swiss crash map</a></p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Open data supports the community",
+        "body": "<p>Open data helps communities to communicate with each other.</p>\n\n<p>mySociety created FixMyStreet, which allows residents to share problems with their local area as open data and create shared solutions.</p>\n\n<p><a href=\"https://www.fixmystreet.com/\" target=\"_blank\">Take me to FixMyStreet programme</a></p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "584928ce4d7b7e82691e4c77",
+    "_layout": "right",
+    "_parentId": "584928ce4d7b7e82691e4c2e",
+    "_type": "component",
+    "body": "<p>Which of these are key parts of opportunity data?</p>\n",
+    "displayTitle": "Knowing the data",
+    "title": "Knowing the data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "Location, activity type & cost",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Difficulty, fitness level & fun-factor",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Popularity, ease & distance from transport",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&rsquo;s right!</strong></p>\n\n<p><strong>Open data</strong> is <strong>data that anyone can access, use and share</strong>.</p>\n\n<p>Open data must also be licensed to allow free usage and be available for commercial use.</p>\n",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p>\n\n<p><strong>Open data</strong> is <strong>data that anyone can access, use and share</strong>.</p>\n\n<p>Open data must also be licensed to allow free usage and be available for commercial use.</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "584928ce4d7b7e82691e4c8f",
+    "_layout": "right",
+    "_parentId": "584928ce4d7b7e82691e4c30",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/52eeac4ca46808f02cfb319311c8d303da482143.png",
+      "small": "course/en/assets/52eeac4ca46808f02cfb319311c8d303da482143.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584928ce4d7b7e82691e4c9a",
+    "_layout": "left",
+    "_parentId": "584928ce4d7b7e82691e4c30",
+    "_type": "component",
+    "body": "<p>Which of these is a great dataset to publish first?</p>\n",
+    "displayTitle": "Choosing a first dataset",
+    "title": "Choosing a first dataset",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "Customer complaints data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Average time spent in physical activity data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Physical activity opportunity data",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&rsquo;s right!</strong></p>\n\n<p>If something restricts the free use of the data, such as a non-commercial restriction, then this would not qualify as being open data.</p>\n",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p>\n\n<p>If something restricts the free use of the data, such as a non-commercial restriction, then this would not qualify as being open data.</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "584928ce4d7b7e82691e4c9b",
+    "_layout": "right",
+    "_parentId": "584928ce4d7b7e82691e4c31",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "   ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/52eeac4ca46808f02cfb319311c8d303da482143.png",
+      "small": "course/en/assets/52eeac4ca46808f02cfb319311c8d303da482143.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584928ce4d7b7e82691e4ca2",
+    "_layout": "left",
+    "_parentId": "584928ce4d7b7e82691e4c31",
+    "_type": "component",
+    "body": "<p>Across the physical activity sector a key blocker to participation is helping people understand what&nbsp;opportunities exist to get involved. &nbsp;This kind of data is know as&nbsp;<strong>opportunity data</strong>. &nbsp;This data can be turned into useful information for participants to help them easily select sessions, event and activities that meet their goals. &nbsp;</p>\n\n<p>Publishing opportunity data as open data will&nbsp;help&nbsp;potential participants get active. &nbsp;For example the data could be used by apps that help people book activity in the same way they book travel.</p>\n\n<ul dir=\"ltr\">\n</ul>\n",
+    "displayTitle": "Why might opportunity data be the best place to start?",
+    "title": "Why might opportunity data be the best place to start?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "584928ce4d7b7e82691e4ca5",
+    "_layout": "right",
+    "_parentId": "584928ce4d7b7e82691e4c34",
+    "_type": "component",
+    "body": "<p>Data included in opportunity dataset will typically include all the information a participant will need to find, book and attend activities or events that meet their goals.</p>\n",
+    "displayTitle": "What does opportunity data include?",
+    "title": "What does opportunity data include?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Location",
+        "body": "<p>Where the activity or provider is based.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Time and date",
+        "body": "<p dir=\"ltr\">Either over a broad range (e.g. this weekend), or a specific time (e.g. 6pm tonight).</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Contact details",
+        "body": "<p>Ways for people to get in touch with organisers. &nbsp;This might include an email address, phone number and website.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Activity type",
+        "body": "<p>What kind of activity is this? &nbsp;For example yoga, hockey or fencing.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Experience or skills level",
+        "body": "<p>Is the activity, session or event targeted at beginners or people with more experience?</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Defined participant types",
+        "body": "<p>Such as age group, accessibility, and gender.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Tags",
+        "body": "<p dir=\"ltr\">A broader set of options e.g. relaxing, fun, social.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Costs",
+        "body": "<p>Whether it is free, requires membership or a one off payment.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Mandatory Participation Requirements",
+        "body": "<p>Such as participant supplied safety equipment or accreditation.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "584928ce4d7b7e82691e4ca6",
+    "_layout": "left",
+    "_parentId": "584928ce4d7b7e82691e4c34",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/0418c08832469a76dfed234441c353f52da122ee.png",
+      "small": "course/en/assets/0418c08832469a76dfed234441c353f52da122ee.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584928cf4d7b7e82691e4ce1",
+    "_layout": "right",
+    "_parentId": "584928ce4d7b7e82691e4c37",
+    "_type": "component",
+    "body": "<p>When planning an open data initiative, consider the following before you start to publish data:</p>\n",
+    "displayTitle": "Start with understanding supply and demand",
+    "title": "Start with understanding supply and demand",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the headings to explore further",
+    "_items": [
+      {
+        "title": "Your approach",
+        "body": "<p>Many open data publishers have taken the approach of building a portal, publishing the data they have, and hoping it is what consumers want or need.</p>\n\n<p>As open data literacy grows, people are starting to think first about the needs of data consumers and shape their initiatives accordingly.</p>\n\n<p>A staged approach helps to ensure that your&nbsp;organisation can walk before it tries to run, and achieves change in small, noticeable steps, rather than setting ambitious goals that are hard to meet.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Who wants your data?",
+        "body": "<p>Open data is an&nbsp;enabler of&nbsp;innovation.</p>\n\n<p>But there is little point in publishing open data if there is no one prepared or motivated to create new value from it.</p>\n\n<p>It is often best to focus on demand that currently exists.</p>\n\n<p>Use existing consumer dialogues, opinion surveys and focus groups&nbsp;to see where the demand is, and follow it.</p>\n\n<p>Think about problems that already exist and how your data relates to them. Offer your data as a tool to help build solutions.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Who will use and support your data?",
+        "body": "<p>A successful open data initiative has an engaged community who actively use the data, with access to resources that support them.</p>\n\n<p>A strong community of open data reusers has a sense of ownership over the data. This ownership should cover both the data and the outputs generated from it.</p>\n\n<p>It is important for publishers and consumers to fully understand each others&rsquo; perspectives.</p>\n\n<p>A good example of a strong open data community is the Open Street Map project.<br />\n<a href=\"https://www.openstreetmap.org/\" target=\"_blank\">Take me to the Open Street Map project</a></p>\n\n<p>&nbsp;</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "584928f24d7b7e82691e4d00",
+    "_layout": "right",
+    "_parentId": "584928f24d7b7e82691e4cf4",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/2a42768ff03abf1a85bed1ac865496094550d05d.png",
+      "small": "course/en/assets/2a42768ff03abf1a85bed1ac865496094550d05d.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584928f24d7b7e82691e4d15",
+    "_layout": "right",
+    "_parentId": "584928f24d7b7e82691e4cf5",
+    "_type": "component",
+    "body": "<p>The Open Data Institute advocates the use of its own quality marque known as...</p>\n",
+    "displayTitle": "Marques of quality",
+    "title": "Marques of quality",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Open Data Certificates",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "the ODI big green tick",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "the ODI stamp of approval",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s&nbsp;right!</strong></p>\n\n<p>The Open Data Institute has developed Open Data Certificates which include practical and social requirements alongside in-depth legal and technical guidelines to consider when publishing open data.</p>\n",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p>\n\n<p>The Open Data Institute has developed Open Data Certificates which include practical and social requirements alongside in-depth legal and technical guidelines to consider when publishing open data.</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "584928f24d7b7e82691e4d16",
+    "_layout": "left",
+    "_parentId": "584928f24d7b7e82691e4cf5",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f36385e52b7136dbc69376e83cc9ed1269ff798e.png",
+      "small": "course/en/assets/f36385e52b7136dbc69376e83cc9ed1269ff798e.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584928f24d7b7e82691e4d29",
+    "_layout": "right",
+    "_parentId": "584928f24d7b7e82691e4cf6",
+    "_type": "component",
+    "body": "<p>Open data becomes usable when...</p>\n",
+    "displayTitle": "What makes open data quality?",
+    "title": "What makes open data quality?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": " it is imported into a common system",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "the government publishes it",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "a human can understand it, machines can manipulate it and it has an open licence",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&rsquo;s right!</strong></p>\n\n<p>Open data becomes usable when a human can understand it, machines can manipulate it and it is made available under an open licence.</p>\n",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p>\n\n<p>Open data becomes usable when a human can understand it, machines can manipulate it and it is made available under an open licence.</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "584928f24d7b7e82691e4d2a",
+    "_layout": "left",
+    "_parentId": "584928f24d7b7e82691e4cf6",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/21d638508a78a46d2d0d79095fef8880344e76cb.png",
+      "small": "course/en/assets/21d638508a78a46d2d0d79095fef8880344e76cb.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584928f24d7b7e82691e4d3e",
+    "_layout": "right",
+    "_parentId": "584928f24d7b7e82691e4cf7",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
+      "small": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584928f24d7b7e82691e4d49",
+    "_layout": "right",
+    "_parentId": "584928f24d7b7e82691e4cf8",
+    "_type": "component",
+    "body": "<p>Open data becomes usable when a human can understand it and a machine can manipulate it.</p>\n\n<p>Users of open data need the permission of its publisher, granted by an open licence. But the open licence alone is not enough to guarantee the usability of data.</p>\n\n<p>It is hard for people to engage with data to derive insights and demonstrate benefits if the data is&nbsp;difficult&nbsp;to use.</p>\n",
+    "displayTitle": "What is open data quality?",
+    "title": "What is open data quality?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "584928f24d7b7e82691e4d4a",
+    "_layout": "left",
+    "_parentId": "584928f24d7b7e82691e4cf8",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/21d638508a78a46d2d0d79095fef8880344e76cb.png",
+      "small": "course/en/assets/21d638508a78a46d2d0d79095fef8880344e76cb.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584928f24d7b7e82691e4d63",
+    "_layout": "left",
+    "_parentId": "584928f24d7b7e82691e4cfb",
+    "_type": "component",
+    "body": "<p>Errors and inconsistencies often occur in data. &nbsp;Common errors include&nbsp;duplicate entries, missing data, inconsistent use of abbreviations, spelling mistakes, mixed numerical scales and ranges&nbsp;and different data formats.&nbsp;</p>\n\n<p>To deal with messy data we recommend OpenRefine, which can help you quickly clean large datasets. Unlike Excel and other spreadsheet programmes, OpenRefine allows you to record the changes you make and can automatically apply cleaning functions to other datasets.&nbsp;</p>\n\n<p>To get started with OpenRefine,&nbsp;<a href=\"http://training.theodi.org/resources/Cleaning_Exercise.pdf\" target=\"_blank\">follow our exercise here.</a></p>\n",
+    "displayTitle": "Improving quality",
+    "title": "Improving quality",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "584928f24d7b7e82691e4d64",
+    "_layout": "right",
+    "_parentId": "584928f24d7b7e82691e4cfb",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/44a05db6017ab321d11f1523d5656079d76bd9f2.png",
+      "small": "course/en/assets/44a05db6017ab321d11f1523d5656079d76bd9f2.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584928f24d7b7e82691e4d74",
+    "_layout": "right",
+    "_parentId": "584928f24d7b7e82691e4cfc",
+    "_type": "component",
+    "body": "<p>Marques of quality provide users with confidence about the quality and usability of open data. &nbsp;There are two key indicators of open data quality:</p>\n",
+    "displayTitle": "Marques of quality",
+    "title": "Marques of quality",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "5 stars",
+        "body": "<p>The &#39;5 Stars of linked open data&#39; include the basic legal definition and technical excellence of the published data.<br />\n<br />\nThe 5 Stars were developed by inventor of the Web, Sir Tim Berners-Lee, in 2001. The 5 Stars make recommendations for the format and structure of the data.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "ODI Open data certificates",
+        "body": "<p>The Open Data Institute&#39;s Open Data Certificates are practical, social, legal and technical guidelines to consider when publishing or using open data.<br />\n<br />\nThe certificates act as a self-assessment questionnaire for publishers, and in some cases users, to assess and benchmark the full usability of a dataset. &nbsp;<a href=\"https://certificates.theodi.org/\" target=\"_blank\">Take me to the ODI Open Data Certificates site</a></p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "584928f24d7b7e82691e4d75",
+    "_layout": "left",
+    "_parentId": "584928f24d7b7e82691e4cfc",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f36385e52b7136dbc69376e83cc9ed1269ff798e.png",
+      "small": "course/en/assets/f36385e52b7136dbc69376e83cc9ed1269ff798e.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584928f34d7b7e82691e4da4",
+    "_layout": "right",
+    "_parentId": "584928f24d7b7e82691e4cfe",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5849376a4d7b7e82691e4dc5",
+    "_layout": "full",
+    "_parentId": "584937584d7b7e82691e4dc4",
+    "_type": "component",
+    "body": "<p>The public sector benefits from open data initiatives in many ways:</p>\n",
+    "displayTitle": "Opportunities for the public sector",
+    "title": "Opportunities for the public sector",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the forward arrow to see more.",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Supporting growing economies",
+        "body": "<p>To support the emergence of new data-driven businesses and the growth of existing ones, the public sector&nbsp;needs to publish key datasets.</p>\n\n<p>The public sector s also needs to support data infrastructure that connects data with those who use it.</p>\n\n<p>In return, the public sector&nbsp;is reaping the benefits of a growing data economy, such as in Finland where SMEs with access to open data grew 15% faster than those without.</p>\n\n<p><a href=\"https://web.archive.org/web/20140531085827/http://www.epsiplatform.eu/content/finnish-study-psi-pricing-geo-data\" target=\"_blank\">Take me to the Finnish case study</a></p>\n",
+        "_graphic": {
+          "src": "course/en/assets/ceffd3b92f2604341e15f3765354d05c766d19de.png",
+          "alt": ""
+        },
+        "strapline": "money"
+      },
+      {
+        "title": "Improved service delivery",
+        "body": "<p>The public sector needs to balance the demands of growing populations with the need to tackle issues facing society.</p>\n\n<p>The availability of detailed open data is essential to improving delivery of services for businesses and individuals.</p>\n\n<p><u><strong>Sport example???</strong></u></p>\n\n<p>&nbsp;</p>\n\n<p>Transport for London, released their travel data and enabled developers to provide consumer-friendly services, providing customers with an estimated &pound;58 million per year in saved time.</p>\n\n<p>In the public sector, the government of Catalunya achieved savings of &euro;2.6m per year in reduced staff costs from cross-department access to map data.</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/e91c6759bf0c2ffded3781b0895c6629bae11edd.jpg",
+          "alt": ""
+        },
+        "strapline": "services"
+      },
+      {
+        "title": "Efficiency savings",
+        "body": "<p><u><strong>Sport example??</strong></u></p>\n\n<p>The Government of South Australia saves $3.2m annually on Freedom of Information requests through proactively releasing data.</p>\n\n<p>Startup Prescribing Analytics &ndash; a joint venture between NHS doctors and technologists &ndash; used open data to identify a &pound;200m annual saving for the NHS if they were to switch to own-brand statins and utilise more efficient delivery routes.</p>\n\n<p>In France, energy data is being used to drive more efficient energy generation practices.<br />\n<a href=\"https://www.quandl.com/collections/france/france-energy-data\" target=\"_blank\">Show me the France energy data.</a></p>\n",
+        "_graphic": {
+          "src": "course/en/assets/29ee08e77301fecc8894a8b1ccc9ee6f7a83d7ca.png",
+          "alt": ""
+        },
+        "strapline": "plan"
+      }
+    ]
+  },
+  {
+    "_id": "58493b164d7b7e82691e4dcf",
+    "_layout": "right",
+    "_parentId": "58493b084d7b7e82691e4dcd",
+    "_type": "component",
+    "body": "<p>Open data is driving innovation and growth&nbsp;by...</p>\n",
+    "displayTitle": "Innovation and growth in business",
+    "title": "Innovation and growth in business",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": " Choose an answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "being made available on the Web",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": " motivating innovators to use public sector data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "revealing opportunities to build new services and improve operations",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&rsquo;s right!</p>\n\n<p>Data literacy is a core skill for businesses looking to take advantage of the opportunities open data offers to create new value and improve operations.</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure?</p>\n\n<p>Data literacy is a core skill for businesses looking to take advantage of the opportunities open data offers to create new value and improve operations.</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "584928f24d7b7e82691e4d5a",
+    "_layout": "full",
+    "_parentId": "584928f24d7b7e82691e4cf9",
+    "_type": "component",
+    "body": "<p>Community-driven standards define the legal, practical, technical and social requirements for an open dataset to be useful.</p>\n",
+    "displayTitle": "What open data standards make data usable?",
+    "title": "What open data standards make data usable?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the forward arrow to see more.",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Legal requirements",
+        "body": "<p>Legal requirements<br />\n<br />\nIn addition to the open licence, there are three legal requirements that need to be considered. You must:</p>\n\n<ul>\n\t<li>Protect sensitive information like personal data.</li>\n\t<li>Preserve the rights of data owners.</li>\n\t<li>Promote correct use of the data.</li>\n</ul>\n",
+        "_graphic": {
+          "src": "course/en/assets/aba5e206eb3142b5bc445a4a4e98b0d497e6c85e.png",
+          "alt": "CC License"
+        },
+        "strapline": "Legal"
+      },
+      {
+        "title": "Practical requirements",
+        "body": "<p>It is important that open data can be found and relied upon by users.<br />\n<br />\nThis means that open data publishers must:</p>\n\n<ul>\n\t<li>Link to the data from their website.</li>\n\t<li>Update the data regularly if it changes.</li>\n\t<li>Commit to continue to make the data available.</li>\n</ul>\n",
+        "_graphic": {
+          "src": "course/en/assets/0130d46e987b04bb8076e6d1925506326f42e42b.png",
+          "alt": ""
+        },
+        "strapline": "Page"
+      },
+      {
+        "title": "Technical requirements",
+        "body": "<p>There are three recommendations that define the technical aspects of open data:</p>\n\n<ul>\n\t<li>The format in which the data is published.</li>\n\t<li>The structure of the data.</li>\n\t<li>The channels through which the data is available.</li>\n</ul>\n",
+        "_graphic": {
+          "src": "course/en/assets/2a42768ff03abf1a85bed1ac865496094550d05d.png",
+          "alt": ""
+        },
+        "strapline": "Page"
+      },
+      {
+        "title": "Social requirements",
+        "body": "<p>For data use to be sustainable, it is important to have an engaged community of users. The best datasets have:</p>\n\n<ul>\n\t<li>Active support channels.</li>\n\t<li>Discussion groups and forums.</li>\n\t<li>Published how-to guides on working with the data.</li>\n</ul>\n",
+        "_graphic": {
+          "src": "course/en/assets/ac8ed9a5107f9fa9e722fd5917db7325e48cbe49.jpg",
+          "alt": ""
+        },
+        "strapline": "page"
+      }
+    ]
+  },
+  {
+    "_id": "584963c04d7b7e82691e4de8",
+    "_layout": "right",
+    "_parentId": "584963ad4d7b7e82691e4de6",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/44a05db6017ab321d11f1523d5656079d76bd9f2.png",
+      "small": "course/en/assets/44a05db6017ab321d11f1523d5656079d76bd9f2.png",
       "attribution": ""
     }
   }

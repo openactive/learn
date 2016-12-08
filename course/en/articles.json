@@ -42,5 +42,38 @@
     "body": "",
     "displayTitle": "",
     "title": "Article title"
+  },
+  {
+    "_id": "584928ca4d7b7e82691e4bd3",
+    "_parentId": "584928ca4d7b7e82691e4bd1",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "",
+    "title": " "
+  },
+  {
+    "_id": "584928ce4d7b7e82691e4c2a",
+    "_parentId": "584928ce4d7b7e82691e4c28",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "",
+    "title": "Article title"
+  },
+  {
+    "_id": "584928f24d7b7e82691e4cf3",
+    "_parentId": "584928f24d7b7e82691e4cf1",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "",
+    "title": " "
   }
 ]

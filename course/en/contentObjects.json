@@ -14,8 +14,8 @@
     "linkText": "View",
     "_classes": "",
     "body": "",
-    "displayTitle": "What is open data and how can it help the physical activity sector?",
-    "title": "What is open data and how can it help the physical activity sector?",
+    "displayTitle": "Open data in the physical activity sector",
+    "title": "Open data in the physical activity sector",
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true
@@ -23,14 +23,130 @@
     "_skillsFramework": {
       "_skills": [
         {
-          "outcome": "Understand open data",
-          "credits": 10,
+          "outcome": "Define open data",
+          "credits": 5,
+          "level": "explorer"
+        },
+        {
+          "outcome": "Explain the need for open data in the physical activity sector",
+          "credits": 5,
           "level": "explorer"
         }
       ]
     },
     "_trackingHub": {
       "_pageID": "sport-1"
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/29ee08e77301fecc8894a8b1ccc9ee6f7a83d7ca.png"
+    },
+    "_id": "584928ca4d7b7e82691e4bd1",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Creating impact from open data",
+    "title": "Creating impact from open data",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Describe the benefits of working with open data",
+          "credits": 5,
+          "level": "explorer"
+        },
+        {
+          "outcome": "Describe successful case studies of using and publishing open data",
+          "credits": 5,
+          "level": "explorer"
+        }
+      ]
+    },
+    "_trackingHub": {
+      "_pageID": ""
+    }
+  },
+  {
+    "_id": "584928ce4d7b7e82691e4c28",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/938032f8502e086c2db35d514c066cfa718da32b.png"
+    },
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Prioritising which data to publish",
+    "title": "Prioritising which data to publish",
+    "_trackingHub": {
+      "_pageID": ""
+    },
+    "_skillsFramework": {
+      "_skills": []
+    },
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/21d638508a78a46d2d0d79095fef8880344e76cb.png"
+    },
+    "_id": "584928f24d7b7e82691e4cf1",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "color-ten",
+    "body": "",
+    "displayTitle": "Ensuring quality data",
+    "title": "Ensuring quality data",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Define the benefits of quality open data",
+          "credits": 5,
+          "level": "explorer"
+        },
+        {
+          "outcome": "Describe two guidelines for open data quality",
+          "credits": 5,
+          "level": "explorer"
+        },
+        {
+          "outcome": "Clean a dataset",
+          "credits": 10,
+          "level": "practitioner"
+        }
+      ]
+    },
+    "_trackingHub": {
+      "_pageID": ""
     }
   },
   {
@@ -48,8 +164,8 @@
     "linkText": "View",
     "_classes": "",
     "body": "",
-    "displayTitle": "How do I create impact for my organisation from open data?",
-    "title": "How do I create impact for my organisation from open data?",
+    "displayTitle": "How do I create impact for my organisation from open data? (original)",
+    "title": "How do I create impact for my organisation from open data? (original)",
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true
@@ -82,8 +198,8 @@
     "linkText": "View",
     "_classes": "",
     "body": "",
-    "displayTitle": "How do I prioritise which data to publish?",
-    "title": "How do I prioritise which data to publish?",
+    "displayTitle": "Prioritising which data to publish (original)",
+    "title": "Prioritising which data to publish (original)",
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true
@@ -116,8 +232,8 @@
     "linkText": "View",
     "_classes": "",
     "body": "",
-    "displayTitle": "How do I make sure I publish data in the right way?",
-    "title": "How do I make sure I publish data in the right way?",
+    "displayTitle": "How do I make sure I publish data in the right way? (original)",
+    "title": "How do I make sure I publish data in the right way? (original)",
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true
