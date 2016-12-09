@@ -16,26 +16,23 @@
     "body": "",
     "displayTitle": "Open data in the physical activity sector",
     "title": "Open data in the physical activity sector",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
     "_skillsFramework": {
       "_skills": [
         {
-          "outcome": "Define open data",
+          "level": "explorer",
           "credits": 5,
-          "level": "explorer"
+          "outcome": "Define open data"
         },
         {
-          "outcome": "Explain the need for open data in the physical activity sector",
+          "level": "explorer",
           "credits": 5,
-          "level": "explorer"
+          "outcome": "Explain the need for open data in the physical activity sector"
         }
       ]
     },
-    "_trackingHub": {
-      "_pageID": "sport-1"
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
     }
   },
   {
@@ -55,34 +52,31 @@
     "body": "",
     "displayTitle": "Creating impact from open data",
     "title": "Creating impact from open data",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
     "_skillsFramework": {
       "_skills": [
         {
-          "outcome": "Describe the benefits of working with open data",
+          "level": "explorer",
           "credits": 5,
-          "level": "explorer"
+          "outcome": "Describe the benefits of working with open data"
         },
         {
-          "outcome": "Describe successful case studies of using and publishing open data",
+          "level": "explorer",
           "credits": 5,
-          "level": "explorer"
+          "outcome": "Describe successful case studies of using and publishing open data"
         }
       ]
     },
-    "_trackingHub": {
-      "_pageID": ""
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
     }
   },
   {
-    "_id": "584928ce4d7b7e82691e4c28",
     "_graphic": {
       "alt": "",
       "src": "course/en/assets/938032f8502e086c2db35d514c066cfa718da32b.png"
     },
+    "_id": "584928ce4d7b7e82691e4c28",
     "_parentId": "course",
     "_type": "page",
     "_isAvailable": true,
@@ -94,11 +88,19 @@
     "body": "",
     "displayTitle": "Prioritising which data to publish",
     "title": "Prioritising which data to publish",
-    "_trackingHub": {
-      "_pageID": ""
-    },
     "_skillsFramework": {
-      "_skills": []
+      "_skills": [
+        {
+          "level": "strategist",
+          "credits": 5,
+          "outcome": "Name ‘identifying shared goals’ as the key factor to consider when prioritising which data to publish"
+        },
+        {
+          "level": "strategist",
+          "credits": 5,
+          "outcome": "Explain why opportunity data should be a priority to publish in the physical activities sector"
+        }
+      ]
     },
     "_pageLevelProgress": {
       "_showPageCompletion": true,
@@ -122,31 +124,28 @@
     "body": "",
     "displayTitle": "Ensuring quality data",
     "title": "Ensuring quality data",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
     "_skillsFramework": {
       "_skills": [
         {
-          "outcome": "Define the benefits of quality open data",
+          "level": "explorer",
           "credits": 5,
-          "level": "explorer"
+          "outcome": "Define the benefits of quality open data"
         },
         {
-          "outcome": "Describe two guidelines for open data quality",
+          "level": "explorer",
           "credits": 5,
-          "level": "explorer"
+          "outcome": "Describe two guidelines for open data quality"
         },
         {
-          "outcome": "Clean a dataset",
+          "level": "practitioner",
           "credits": 10,
-          "level": "practitioner"
+          "outcome": "Clean a dataset"
         }
       ]
     },
-    "_trackingHub": {
-      "_pageID": ""
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
     }
   },
   {
@@ -166,21 +165,18 @@
     "body": "",
     "displayTitle": "How do I create impact for my organisation from open data? (original)",
     "title": "How do I create impact for my organisation from open data? (original)",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
     "_skillsFramework": {
       "_skills": [
         {
-          "outcome": "Adapt open data to the relevant business",
+          "level": "strategist",
           "credits": 10,
-          "level": "strategist"
+          "outcome": "Adapt open data to the relevant business"
         }
       ]
     },
-    "_trackingHub": {
-      "_pageID": "sport-2"
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
     }
   },
   {
@@ -200,21 +196,18 @@
     "body": "",
     "displayTitle": "Prioritising which data to publish (original)",
     "title": "Prioritising which data to publish (original)",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
     "_skillsFramework": {
       "_skills": [
         {
-          "outcome": "prioritise which data to publish",
+          "level": "strategist",
           "credits": 10,
-          "level": "strategist"
+          "outcome": "prioritise which data to publish"
         }
       ]
     },
-    "_trackingHub": {
-      "_pageID": "sport-3"
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
     }
   },
   {
@@ -234,21 +227,18 @@
     "body": "",
     "displayTitle": "How do I make sure I publish data in the right way? (original)",
     "title": "How do I make sure I publish data in the right way? (original)",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
     "_skillsFramework": {
       "_skills": [
         {
-          "outcome": "Understand the correct way to publish data",
+          "level": "strategist",
           "credits": 10,
-          "level": "strategist"
+          "outcome": "Understand the correct way to publish data"
         }
       ]
     },
-    "_trackingHub": {
-      "_pageID": "sport-4"
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
     }
   }
 ]
