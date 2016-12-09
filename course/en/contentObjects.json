@@ -86,8 +86,12 @@
     "linkText": "View",
     "_classes": "",
     "body": "",
-    "displayTitle": "Prioritising which data to publish",
-    "title": "Prioritising which data to publish",
+    "displayTitle": "Prioritising data to publish openly",
+    "title": "Prioritising data to publish openly",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -102,9 +106,8 @@
         }
       ]
     },
-    "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
+    "_trackingHub": {
+      "_pageID": ""
     }
   },
   {
