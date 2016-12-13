@@ -27,7 +27,7 @@
   },
   "build": {
     "includes": [
-      "adapt-theme-odi",
+      "adapt-theme-se",
       "adapt-contrib-boxMenu",
       "adapt-skillsFramework",
       "adapt-contrib-tutor",

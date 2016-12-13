@@ -86,16 +86,16 @@
     "title": "Component title",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "matchblock",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/34d9d55056a21925974346e3c74661359d7083c6.png",
-      "small": "course/en/assets/34d9d55056a21925974346e3c74661359d7083c6.png",
+      "large": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "small": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
       "attribution": ""
     }
   },
@@ -112,36 +112,13 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
-      "small": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
-      "attribution": ""
-    }
-  },
-  {
-    "_id": "584928ce4d7b7e82691e4ccd",
-    "_layout": "right",
-    "_parentId": "584928ce4d7b7e82691e4c35",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "Component title",
-    "title": "   ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/34d9d55056a21925974346e3c74661359d7083c6.png",
-      "small": "course/en/assets/34d9d55056a21925974346e3c74661359d7083c6.png",
+      "large": "course/en/assets/4c0911bdfd84f6e6252c2115514a4d5653661c75.png",
+      "small": "course/en/assets/4c0911bdfd84f6e6252c2115514a4d5653661c75.png",
       "attribution": ""
     }
   },
@@ -175,7 +152,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -190,7 +167,7 @@
     "_layout": "left",
     "_parentId": "584928ca4d7b7e82691e4bd8",
     "_type": "component",
-    "body": "<p>Open data is supporting innovation and growth by revealing opportunities for businesses large and small to build new services, identify savings and improve operations.</p>\n\n<p>In the UK,&nbsp;<a href=\"https://www.hulahub.com/\">HulaHub</a> and&nbsp;<a href=\"https://beta.getactivelondon.com/\">GetActive</a>&nbsp;enable users to search and compare&nbsp;different activities in their local area.</p>\n\n<p>In Paris, caf&eacute; owners are using open data to attract tourists to the&nbsp;<a href=\"https://web.archive.org/web/20150515035949/http://www.paris.fr/accueil/paris-mag/ou-boire-un-cafe-pour-1-a-paris/rub_9683_actu_116311_port_23863\" target=\"_blank\">city&#39;s most affordable coffees</a>, while, in Iceland, farmers are using&nbsp;<a href=\"http://weblog.linkingpaths.com/post/78767700473/icelandic-open-data-lambs-and-maps\" target=\"_blank\">open data about the quality of their lambs</a>&nbsp;to attract new customers.</p>\n\n<p>Open data stimulates innovation by removing barriers to access, use and shareability of data.</p>\n\n<p>Data literacy is a core skill for businesses looking to take advantage of the opportunities open data offers to create new value and improve operations.</p>\n",
+    "body": "<p>Open data is supporting innovation and growth by revealing opportunities for businesses large and small to build new services, identify savings and improve operations.</p>\n\n<p>In the UK,&nbsp;<a href=\"https://www.hulahub.com/\">HulaHub</a> and&nbsp;<a href=\"https://beta.getactivelondon.com/\">GetActive</a>&nbsp;enable users to search and compare&nbsp;different activities in their local area.</p>\n\n<p>In Paris, caf&eacute; owners are using open data to attract tourists to the&nbsp;<a href=\"https://web.archive.org/web/20150515035949/http://www.paris.fr/accueil/paris-mag/ou-boire-un-cafe-pour-1-a-paris/rub_9683_actu_116311_port_23863\" target=\"_blank\">city&#39;s most affordable coffees</a>, while, in Iceland, farmers are using&nbsp;<a href=\"http://weblog.linkingpaths.com/post/78767700473/icelandic-open-data-lambs-and-maps\" target=\"_blank\">open data about the quality of their lambs</a>&nbsp;to attract new customers.</p>\n\n<p>Open data stimulates innovation by removing barriers to access, use and shareability of data.</p>\n",
     "displayTitle": "Innovation and growth in businesses",
     "title": "Innovation and growth in businesses",
     "_isAvailable": true,
@@ -249,13 +226,13 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
-      "small": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
+      "large": "course/en/assets/4c0911bdfd84f6e6252c2115514a4d5653661c75.png",
+      "small": "course/en/assets/4c0911bdfd84f6e6252c2115514a4d5653661c75.png",
       "attribution": ""
     }
   },
@@ -269,35 +246,12 @@
     "title": "Creating impact from open data",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "ticks",
     "_component": "text",
     "_pageLevelProgress": {
       "_isEnabled": true
     },
     "instruction": ""
-  },
-  {
-    "_id": "584928ca4d7b7e82691e4bef",
-    "_layout": "right",
-    "_parentId": "584928ca4d7b7e82691e4bd6",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/4a5548a294f4e953d38166b6fbe45df470a36676.png",
-      "small": "course/en/assets/4a5548a294f4e953d38166b6fbe45df470a36676.png",
-      "attribution": ""
-    }
   },
   {
     "_id": "584928ca4d7b7e82691e4bf7",
@@ -309,16 +263,16 @@
     "title": "Component title",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "color-nine",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/a0b64fbcfb16d3b4f910241fc4c23532f28b16eb.png",
-      "small": "course/en/assets/a0b64fbcfb16d3b4f910241fc4c23532f28b16eb.png",
+      "large": "course/en/assets/34825f6bf6f9b89bc11be4a226a05985050c81ee.png",
+      "small": "course/en/assets/34825f6bf6f9b89bc11be4a226a05985050c81ee.png",
       "attribution": ""
     }
   },
@@ -335,7 +289,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -367,7 +321,7 @@
     "_layout": "left",
     "_parentId": "584928ce4d7b7e82691e4c2d",
     "_type": "component",
-    "body": "<p>Any physical activity dataset can be made open provided it does not contain personal details or sensitive information. &nbsp;Your organisation&nbsp;needs to prioritise data that will make the greatest impact both for your organisation and for potential users, because&nbsp;data takes time to clean, publish and promote.</p>\n",
+    "body": "<p>Any physical activity dataset can be made open provided it does not contain personal details or sensitive information.</p>\n\n<p>Your organisation&nbsp;needs to prioritise data that will make the greatest impact both for your organisation and for potential users, because&nbsp;data takes time to clean, publish and promote.</p>\n",
     "displayTitle": "Choosing the right data to publish",
     "title": "Choosing the right data to publish",
     "_isAvailable": true,
@@ -389,16 +343,16 @@
     "title": "Component title",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "color-three",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/c931b7f10094ffc44d018183b9066c6aab997a44.png",
-      "small": "course/en/assets/c931b7f10094ffc44d018183b9066c6aab997a44.png",
+      "large": "course/en/assets/acf5fafa193ef4bb8815fd24cea76dc89bd93701.png",
+      "small": "course/en/assets/acf5fafa193ef4bb8815fd24cea76dc89bd93701.png",
       "attribution": ""
     }
   },
@@ -412,39 +366,16 @@
     "title": "Component title",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "color-three",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/52eeac4ca46808f02cfb319311c8d303da482143.png",
-      "small": "course/en/assets/52eeac4ca46808f02cfb319311c8d303da482143.png",
-      "attribution": ""
-    }
-  },
-  {
-    "_id": "584928cf4d7b7e82691e4cdd",
-    "_layout": "right",
-    "_parentId": "584928ce4d7b7e82691e4c36",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/4a5548a294f4e953d38166b6fbe45df470a36676.png",
-      "small": "course/en/assets/4a5548a294f4e953d38166b6fbe45df470a36676.png",
+      "large": "course/en/assets/6ff8a4063ef1ee22d903a5db21adb55e9b0549ac.png",
+      "small": "course/en/assets/6ff8a4063ef1ee22d903a5db21adb55e9b0549ac.png",
       "attribution": ""
     }
   },
@@ -458,16 +389,16 @@
     "title": "Component title",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "white",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/8be028ca0cb2fb6873cbdceb0dfc2899e41bedaf.png",
-      "small": "course/en/assets/8be028ca0cb2fb6873cbdceb0dfc2899e41bedaf.png",
+      "large": "course/en/assets/edd9adfa60a0dc2b857d5e90a86fdf58f3287e66.png",
+      "small": "course/en/assets/edd9adfa60a0dc2b857d5e90a86fdf58f3287e66.png",
       "attribution": ""
     }
   },
@@ -546,29 +477,6 @@
       },
       "remainingAttemptsText": "",
       "remainingAttemptText": ""
-    }
-  },
-  {
-    "_id": "584928f24d7b7e82691e4d5f",
-    "_layout": "right",
-    "_parentId": "584928f24d7b7e82691e4cfa",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/4a5548a294f4e953d38166b6fbe45df470a36676.png",
-      "small": "course/en/assets/4a5548a294f4e953d38166b6fbe45df470a36676.png",
-      "attribution": ""
     }
   },
   {
@@ -675,16 +583,16 @@
     "title": "Component title",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "white",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/ceffd3b92f2604341e15f3765354d05c766d19de.png",
-      "small": "course/en/assets/ceffd3b92f2604341e15f3765354d05c766d19de.png",
+      "large": "course/en/assets/7a60285b6b24a9a072771eb1b039c037a3b49ead.png",
+      "small": "course/en/assets/7a60285b6b24a9a072771eb1b039c037a3b49ead.png",
       "attribution": ""
     }
   },
@@ -698,16 +606,16 @@
     "title": "Component title",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "color-nine",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/a0b64fbcfb16d3b4f910241fc4c23532f28b16eb.png",
-      "small": "course/en/assets/a0b64fbcfb16d3b4f910241fc4c23532f28b16eb.png",
+      "large": "course/en/assets/34825f6bf6f9b89bc11be4a226a05985050c81ee.png",
+      "small": "course/en/assets/34825f6bf6f9b89bc11be4a226a05985050c81ee.png",
       "attribution": ""
     }
   },
@@ -761,7 +669,7 @@
     "_isRandom": false,
     "_recordInteraction": true,
     "_questionWeight": 1,
-    "_selectable": 1,
+    "_selectable": 3,
     "_feedback": {
       "correct": "<p><strong>That&#39;s right!</strong></p>\n\n<p>Mixed use of scales, redundant data and multiple representations of the same data are just some of the errors that need to be fixed in unclean data. While the granularity and lack of licence are a problem, they are not related to the data itself being unclean.</p>\n",
       "_incorrect": {
@@ -889,12 +797,12 @@
     "_layout": "left",
     "_parentId": "584928ce4d7b7e82691e4c36",
     "_type": "component",
-    "body": "<p>Any physical activity dataset can be made open provided it does not contain personal details or sensitive information. Prioritising&nbsp;which data to publish openly first can be overwhelming. Your organisation needs to&nbsp;prioritise data that will make the greatest impact both for your organisation and for your&nbsp;users, because&nbsp;data takes time to clean, publish and promote.</p>\n\n<p>In this module we&rsquo;ll explore the following:</p>\n\n<ul>\n\t<li dir=\"ltr\">\n\t<p dir=\"ltr\">Where do I start?</p>\n\t</li>\n\t<li dir=\"ltr\">\n\t<p dir=\"ltr\">What is opportunity data?</p>\n\t</li>\n\t<li dir=\"ltr\">\n\t<p dir=\"ltr\">Why is opportunity&nbsp;data a good place to start?</p>\n\t</li>\n</ul>\n",
+    "body": "<p>Any physical activity dataset can be made open provided it does not contain personal details or sensitive information. Prioritising&nbsp;which data to publish openly first can be overwhelming. Your organisation needs to&nbsp;prioritise data that will make the greatest impact both for your organisation and for your&nbsp;users, because&nbsp;data takes time to clean, publish and promote.</p>\n\n<p>In this module we&rsquo;ll explore the following:</p>\n\n<ul>\n\t<li>Where do I start?</li>\n\t<li>What is opportunity data?</li>\n\t<li>Why is opportunity data a good place to start?</li>\n</ul>\n",
     "displayTitle": "Prioritising data to publish openly",
     "title": "Prioritising data to publish openly",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "ticks",
     "_component": "text",
     "_pageLevelProgress": {
       "_isEnabled": true
@@ -911,7 +819,7 @@
     "title": "Ensuring quality data",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "ticks",
     "_component": "text",
     "_pageLevelProgress": {
       "_isEnabled": true
@@ -1017,12 +925,12 @@
     "_layout": "left",
     "_parentId": "581c76824d7b7e82691e408d",
     "_type": "component",
-    "body": "<p>Open data is&nbsp;<strong>data</strong>&nbsp;that&nbsp;<strong>anyone</strong>&nbsp;can&nbsp;<strong>access</strong>,&nbsp;<strong>use</strong>&nbsp;and&nbsp;<strong>share</strong>. Governments, businesses and individuals can use open data to bring about social, economic and environmental benefits.</p>\n\n<p>In this module we&rsquo;ll explore the following:</p>\n\n<ul>\n\t<li>What is open data?</li>\n\t<li>What is data?</li>\n\t<li>What makes data open?</li>\n\t<li>Why does the physical activity sector need open data?</li>\n</ul>\n\n<p>&nbsp;</p>\n",
-    "displayTitle": "What is open data and how can it help the physical activity sector?",
-    "title": "What is open data and how can it help the physical activity sector?",
+    "body": "<p>Open data is <strong>data that anyone can access, use and share</strong>. Governments, businesses and individuals can use open data to bring about social, economic and environmental benefits.</p>\n\n<p>In this module we&rsquo;ll explore the following:</p>\n\n<ul>\n\t<li>What is open data?</li>\n\t<li>What is data?</li>\n\t<li>What makes data open?</li>\n\t<li>Why does the physical activity sector need open data?</li>\n</ul>\n",
+    "displayTitle": "Open data in the physical activity sector",
+    "title": "Open data in the physical activity sector",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "ticks",
     "_component": "text",
     "_pageLevelProgress": {
       "_isEnabled": true
@@ -1063,7 +971,7 @@
     },
     "instruction": "Click the forward arrow to see more.",
     "mobileInstruction": "",
-    "_hasNavigationInTextArea": true,
+    "_hasNavigationInTextArea": false,
     "_setCompletionOn": "allItems",
     "_items": [
       {
@@ -1114,7 +1022,7 @@
     "_items": [
       {
         "title": "Limitations",
-        "body": "<p>For data to be open, it should have no limitations that prevent it from being used in any particular way</p>\n\n<p>Anyone should be free to use, modify, combine and share the data, even commercially</p>\n",
+        "body": "<p>For data to be open, it should have no limitations that prevent it from being used in any particular way.</p>\n\n<p>Anyone should be free to use, modify, combine and share the data, even commercially.</p>\n",
         "_graphic": {
           "alt": "",
           "src": ""
@@ -1152,7 +1060,7 @@
     "title": "Component title",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "white",
     "_component": "graphic",
     "_pageLevelProgress": {
       "_isEnabled": false
@@ -1160,8 +1068,8 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/36ffe08599a5405fa0f300777ee0a615e5cb9a1a.png",
-      "small": "course/en/assets/36ffe08599a5405fa0f300777ee0a615e5cb9a1a.png",
+      "large": "course/en/assets/6ab98b5ebf05188c63a217fa1728fa3b3ee19f3d.png",
+      "small": "course/en/assets/6ab98b5ebf05188c63a217fa1728fa3b3ee19f3d.png",
       "attribution": ""
     }
   },
@@ -1409,13 +1317,13 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/36ffe08599a5405fa0f300777ee0a615e5cb9a1a.png",
-      "small": "course/en/assets/36ffe08599a5405fa0f300777ee0a615e5cb9a1a.png",
+      "large": "course/en/assets/6ab98b5ebf05188c63a217fa1728fa3b3ee19f3d.png",
+      "small": "course/en/assets/6ab98b5ebf05188c63a217fa1728fa3b3ee19f3d.png",
       "attribution": ""
     }
   },
@@ -1429,16 +1337,16 @@
     "title": "Component title",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "matchblock",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/0a55f8fb2430d3fb5c1f0d42ee4102cd6d4b5865.png",
-      "small": "course/en/assets/0a55f8fb2430d3fb5c1f0d42ee4102cd6d4b5865.png",
+      "large": "course/en/assets/86a681b57d12594816d4184f7772e603f5413623.png",
+      "small": "course/en/assets/86a681b57d12594816d4184f7772e603f5413623.png",
       "attribution": ""
     }
   },
@@ -1495,13 +1403,13 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
-      "small": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
+      "large": "course/en/assets/4c0911bdfd84f6e6252c2115514a4d5653661c75.png",
+      "small": "course/en/assets/4c0911bdfd84f6e6252c2115514a4d5653661c75.png",
       "attribution": ""
     }
   },
@@ -2849,8 +2757,8 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/3a5b24358dade34b6047a1f80c91efd57ad0f0b5.png",
-      "small": "course/en/assets/3a5b24358dade34b6047a1f80c91efd57ad0f0b5.png",
+      "large": "course/en/assets/d7edbae9473f8716288c68ec603eaed28481808a.png",
+      "small": "course/en/assets/d7edbae9473f8716288c68ec603eaed28481808a.png",
       "attribution": ""
     }
   },
@@ -3141,16 +3049,16 @@
     "title": "Component title",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "white",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/3a5b24358dade34b6047a1f80c91efd57ad0f0b5.png",
-      "small": "course/en/assets/3a5b24358dade34b6047a1f80c91efd57ad0f0b5.png",
+      "large": "course/en/assets/d7edbae9473f8716288c68ec603eaed28481808a.png",
+      "small": "course/en/assets/d7edbae9473f8716288c68ec603eaed28481808a.png",
       "attribution": ""
     }
   },
@@ -3224,29 +3132,6 @@
     }
   },
   {
-    "_id": "582cac4f4d7b7e82691e4499",
-    "_layout": "right",
-    "_parentId": "581c76824d7b7e82691e408d",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/4a5548a294f4e953d38166b6fbe45df470a36676.png",
-      "small": "course/en/assets/4a5548a294f4e953d38166b6fbe45df470a36676.png",
-      "attribution": ""
-    }
-  },
-  {
     "_id": "58385d154d7b7e82691e478a",
     "_layout": "right",
     "_parentId": "58385cfd4d7b7e82691e4788",
@@ -3302,7 +3187,7 @@
     "title": "Component title",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "white",
     "_component": "graphic",
     "_pageLevelProgress": {
       "_isEnabled": false
@@ -3310,8 +3195,8 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/0a55f8fb2430d3fb5c1f0d42ee4102cd6d4b5865.png",
-      "small": "course/en/assets/0a55f8fb2430d3fb5c1f0d42ee4102cd6d4b5865.png",
+      "large": "course/en/assets/86a681b57d12594816d4184f7772e603f5413623.png",
+      "small": "course/en/assets/86a681b57d12594816d4184f7772e603f5413623.png",
       "attribution": ""
     }
   },
@@ -3913,16 +3798,16 @@
     "title": "Component title",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "white",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/8be028ca0cb2fb6873cbdceb0dfc2899e41bedaf.png",
-      "small": "course/en/assets/8be028ca0cb2fb6873cbdceb0dfc2899e41bedaf.png",
+      "large": "course/en/assets/edd9adfa60a0dc2b857d5e90a86fdf58f3287e66.png",
+      "small": "course/en/assets/edd9adfa60a0dc2b857d5e90a86fdf58f3287e66.png",
       "attribution": ""
     }
   },
@@ -4013,16 +3898,16 @@
     "title": "   ",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "color-six",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/52eeac4ca46808f02cfb319311c8d303da482143.png",
-      "small": "course/en/assets/52eeac4ca46808f02cfb319311c8d303da482143.png",
+      "large": "course/en/assets/6ff8a4063ef1ee22d903a5db21adb55e9b0549ac.png",
+      "small": "course/en/assets/6ff8a4063ef1ee22d903a5db21adb55e9b0549ac.png",
       "attribution": ""
     }
   },
@@ -4036,16 +3921,16 @@
     "title": "Component title",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "color-three",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/c931b7f10094ffc44d018183b9066c6aab997a44.png",
-      "small": "course/en/assets/c931b7f10094ffc44d018183b9066c6aab997a44.png",
+      "large": "course/en/assets/acf5fafa193ef4bb8815fd24cea76dc89bd93701.png",
+      "small": "course/en/assets/acf5fafa193ef4bb8815fd24cea76dc89bd93701.png",
       "attribution": ""
     }
   },
@@ -4059,16 +3944,16 @@
     "title": "Component title",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "color-ten",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/2a42768ff03abf1a85bed1ac865496094550d05d.png",
-      "small": "course/en/assets/2a42768ff03abf1a85bed1ac865496094550d05d.png",
+      "large": "course/en/assets/ef6c8121b41c85410905208e9319bfd4b58d7224.png",
+      "small": "course/en/assets/ef6c8121b41c85410905208e9319bfd4b58d7224.png",
       "attribution": ""
     }
   },
@@ -4085,7 +3970,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -4182,16 +4067,16 @@
     "title": "Component title",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "color-nine",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/21d638508a78a46d2d0d79095fef8880344e76cb.png",
-      "small": "course/en/assets/21d638508a78a46d2d0d79095fef8880344e76cb.png",
+      "large": "course/en/assets/d553a6fe306f6ca45946370dd8abe4f7372f610e.png",
+      "small": "course/en/assets/d553a6fe306f6ca45946370dd8abe4f7372f610e.png",
       "attribution": ""
     }
   },
@@ -4208,13 +4093,13 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
-      "small": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
+      "large": "course/en/assets/4c0911bdfd84f6e6252c2115514a4d5653661c75.png",
+      "small": "course/en/assets/4c0911bdfd84f6e6252c2115514a4d5653661c75.png",
       "attribution": ""
     }
   },
@@ -4245,16 +4130,16 @@
     "title": "Component title",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "color-nine",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/21d638508a78a46d2d0d79095fef8880344e76cb.png",
-      "small": "course/en/assets/21d638508a78a46d2d0d79095fef8880344e76cb.png",
+      "large": "course/en/assets/d553a6fe306f6ca45946370dd8abe4f7372f610e.png",
+      "small": "course/en/assets/d553a6fe306f6ca45946370dd8abe4f7372f610e.png",
       "attribution": ""
     }
   },
@@ -4288,7 +4173,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -4346,10 +4231,10 @@
     "title": "Component title",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "white",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -4372,7 +4257,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -4399,14 +4284,14 @@
     },
     "instruction": "Click the forward arrow to see more.",
     "mobileInstruction": "",
-    "_hasNavigationInTextArea": true,
+    "_hasNavigationInTextArea": false,
     "_setCompletionOn": "allItems",
     "_items": [
       {
         "title": "Supporting growing economies",
-        "body": "<p>To support the emergence of new data-driven businesses and the growth of existing ones, the public sector&nbsp;needs to publish key datasets.</p>\n\n<p>The public sector s also needs to support data infrastructure that connects data with those who use it.</p>\n\n<p>In return, the public sector&nbsp;is reaping the benefits of a growing data economy, such as in Finland where SMEs with access to open data grew 15% faster than those without.</p>\n\n<p><a href=\"https://web.archive.org/web/20140531085827/http://www.epsiplatform.eu/content/finnish-study-psi-pricing-geo-data\" target=\"_blank\">Take me to the Finnish case study</a></p>\n",
+        "body": "<p>To support the emergence of new data-driven businesses and the growth of existing ones, the public sector&nbsp;needs to publish key datasets.</p>\n\n<p>The public sector also needs to support data infrastructure that connects data with those who use it.</p>\n\n<p>In return, the public sector&nbsp;is reaping the benefits of a growing data economy, such as in Finland where SMEs with access to open data grew 15% faster than those without.</p>\n\n<p><a href=\"https://web.archive.org/web/20140531085827/http://www.epsiplatform.eu/content/finnish-study-psi-pricing-geo-data\" target=\"_blank\">Take me to the Finnish case study</a></p>\n",
         "_graphic": {
-          "src": "course/en/assets/ceffd3b92f2604341e15f3765354d05c766d19de.png",
+          "src": "course/en/assets/041ed58c20dfcf8e818b6210565db5aa47afc803.png",
           "alt": ""
         },
         "strapline": "money"
@@ -4415,7 +4300,7 @@
         "title": "Improved service delivery",
         "body": "<p>The availability of detailed open data is essential to improving delivery of services for businesses and individuals.</p>\n\n<p>In the physical activities sector, British Cycling publishes data on&nbsp;<a href=\"http://data.goskyride.com/\">Sky Ride events</a>&nbsp;so that more users are aware when and where the Sky Rides are taking place.</p>\n\n<p>In the transport sector, Transport for London, released their travel data and enabled developers to provide consumer-friendly services, providing customers with an estimated &pound;58 million per year in saved time.</p>\n",
         "_graphic": {
-          "src": "course/en/assets/e91c6759bf0c2ffded3781b0895c6629bae11edd.jpg",
+          "src": "course/en/assets/c0eca1e9dde2d00c75333a3690c8ba35d98c1d3c.jpg",
           "alt": ""
         },
         "strapline": "services"
@@ -4424,7 +4309,7 @@
         "title": "Efficiency savings",
         "body": "<p>In the public sector, the Government of South Australia saves $3.2m annually on Freedom of Information requests through proactively releasing data.</p>\n\n<p>Startup Prescribing Analytics &ndash; a joint venture between NHS doctors and technologists &ndash; used open data to identify a &pound;200m annual saving for the NHS if they were to switch to own-brand statins and utilise more efficient delivery routes.</p>\n",
         "_graphic": {
-          "src": "course/en/assets/29ee08e77301fecc8894a8b1ccc9ee6f7a83d7ca.png",
+          "src": "course/en/assets/a504270596bccd50c7606befecc8b926320b60a8.png",
           "alt": ""
         },
         "strapline": "plan"
@@ -4518,21 +4403,21 @@
     "title": "What open data standards make data usable?",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "matchblock",
     "_component": "narrative",
     "_pageLevelProgress": {
       "_isEnabled": true
     },
     "instruction": "Click the forward arrow to see more.",
     "mobileInstruction": "",
-    "_hasNavigationInTextArea": true,
+    "_hasNavigationInTextArea": false,
     "_setCompletionOn": "allItems",
     "_items": [
       {
         "title": "Legal requirements",
         "body": "<p>Legal requirements<br />\n<br />\nIn addition to the open licence, there are three legal requirements that need to be considered. You must:</p>\n\n<ul>\n\t<li>Protect sensitive information like personal data.</li>\n\t<li>Preserve the rights of data owners.</li>\n\t<li>Promote correct use of the data.</li>\n</ul>\n",
         "_graphic": {
-          "src": "course/en/assets/aba5e206eb3142b5bc445a4a4e98b0d497e6c85e.png",
+          "src": "course/en/assets/4c16023cfb73e5b28757444d7d21515c96de1998.png",
           "alt": "CC License"
         },
         "strapline": "Legal"
@@ -4541,7 +4426,7 @@
         "title": "Practical requirements",
         "body": "<p>It is important that open data can be found and relied upon by users.<br />\n<br />\nThis means that open data publishers must:</p>\n\n<ul>\n\t<li>Link to the data from their website.</li>\n\t<li>Update the data regularly if it changes.</li>\n\t<li>Commit to continue to make the data available.</li>\n</ul>\n",
         "_graphic": {
-          "src": "course/en/assets/0130d46e987b04bb8076e6d1925506326f42e42b.png",
+          "src": "course/en/assets/385bfb3f40afe3cafb5e9439bdee83b5537c32ad.png",
           "alt": ""
         },
         "strapline": "Page"
@@ -4550,7 +4435,7 @@
         "title": "Technical requirements",
         "body": "<p>There are three recommendations that define the technical aspects of open data:</p>\n\n<ul>\n\t<li>The format in which the data is published.</li>\n\t<li>The structure of the data.</li>\n\t<li>The channels through which the data is available.</li>\n</ul>\n",
         "_graphic": {
-          "src": "course/en/assets/2a42768ff03abf1a85bed1ac865496094550d05d.png",
+          "src": "course/en/assets/7f10fa9ab7f75c941335b3fd99bc178eb880ed7d.png",
           "alt": ""
         },
         "strapline": "Page"
@@ -4559,7 +4444,7 @@
         "title": "Social requirements",
         "body": "<p>For data use to be sustainable, it is important to have an engaged community of users. The best datasets have:</p>\n\n<ul>\n\t<li>Active support channels.</li>\n\t<li>Discussion groups and forums.</li>\n\t<li>Published how-to guides on working with the data.</li>\n</ul>\n",
         "_graphic": {
-          "src": "course/en/assets/ac8ed9a5107f9fa9e722fd5917db7325e48cbe49.jpg",
+          "src": "course/en/assets/ecc29cb1588c4f76a0bcf5e2f706110c960c328a.jpg",
           "alt": ""
         },
         "strapline": "page"
@@ -4576,10 +4461,10 @@
     "title": "Component title",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "white",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -4594,7 +4479,7 @@
     "_layout": "left",
     "_parentId": "584928ce4d7b7e82691e4c34",
     "_type": "component",
-    "body": "<p>Across the physical activity sector a key blocker to participation is helping people understand what is available.&nbsp; This kind of data is known as&nbsp;<strong>opportunity data</strong>. &nbsp;</p>\n\n<p>Opportunity data is data tells someone who wants to do an activity when and where that activity is happening.</p>\n\n<p>The headings below explore different data that you might find in an opportunity dataset.</p>\n",
+    "body": "<p>Across the physical activity sector, a key blocker to participation is helping people understand what is available.&nbsp; This kind of data is known as&nbsp;<strong>opportunity data</strong>. &nbsp;</p>\n\n<p>Opportunity data is data that tells someone who wants to do an activity when and where that activity is happening.</p>\n\n<p>The headings below explore different data that you might find in an opportunity dataset.</p>\n",
     "displayTitle": "What is opportunity data?",
     "title": "What is opportunity data?",
     "_isAvailable": true,
@@ -4841,6 +4726,121 @@
       },
       "remainingAttemptsText": "",
       "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "584fbe084e62ce485eb14595",
+    "_layout": "right",
+    "_parentId": "581c76824d7b7e82691e408d",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/b178208e9ffc0b61cd08a7c6f7a1543611c7d85d.png",
+      "small": "course/en/assets/b178208e9ffc0b61cd08a7c6f7a1543611c7d85d.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584fbf4a4e62ce485eb1459a",
+    "_layout": "right",
+    "_parentId": "584928ca4d7b7e82691e4bd6",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/b178208e9ffc0b61cd08a7c6f7a1543611c7d85d.png",
+      "small": "course/en/assets/b178208e9ffc0b61cd08a7c6f7a1543611c7d85d.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584fbf604e62ce485eb1459e",
+    "_layout": "right",
+    "_parentId": "584928ce4d7b7e82691e4c36",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/b178208e9ffc0b61cd08a7c6f7a1543611c7d85d.png",
+      "small": "course/en/assets/b178208e9ffc0b61cd08a7c6f7a1543611c7d85d.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584fbf714e62ce485eb145a2",
+    "_layout": "right",
+    "_parentId": "584928f24d7b7e82691e4cfa",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/b178208e9ffc0b61cd08a7c6f7a1543611c7d85d.png",
+      "small": "course/en/assets/b178208e9ffc0b61cd08a7c6f7a1543611c7d85d.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "584928ce4d7b7e82691e4ccd",
+    "_layout": "right",
+    "_parentId": "584928ce4d7b7e82691e4c35",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "   ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "matchblock",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "small": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "attribution": ""
     }
   }
 ]

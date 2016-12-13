@@ -2,7 +2,7 @@
   {
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/be470020848ed617d92d832679da7b45a19059ec.png"
+      "src": "course/en/assets/487a92d1f0d603836df88c719b96ec30d2a6fad1.png"
     },
     "_id": "581c76824d7b7e82691e408b",
     "_parentId": "course",
@@ -13,9 +13,13 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "",
+    "body": "<p>Understanding open data is the first step to using it. This module looks at what open data is, and why it it is needed in&nbsp;the physical activity sector.</p>\n",
     "displayTitle": "Open data in the physical activity sector",
     "title": "Open data in the physical activity sector",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -29,16 +33,12 @@
           "outcome": "Explain the need for open data in the physical activity sector"
         }
       ]
-    },
-    "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
     }
   },
   {
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/29ee08e77301fecc8894a8b1ccc9ee6f7a83d7ca.png"
+      "src": "course/en/assets/a504270596bccd50c7606befecc8b926320b60a8.png"
     },
     "_id": "584928ca4d7b7e82691e4bd1",
     "_parentId": "course",
@@ -49,9 +49,13 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "",
+    "body": "<p>Physical activity providers can use open data to get more people involved, create better experiences for participants and run their organisations more efficiently. &nbsp;This module looks how the public sector, businesses and individuals are creating impact with open data.</p>\n",
     "displayTitle": "Creating impact from open data",
     "title": "Creating impact from open data",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -65,16 +69,12 @@
           "outcome": "Describe successful case studies of using and publishing open data"
         }
       ]
-    },
-    "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
     }
   },
   {
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/938032f8502e086c2db35d514c066cfa718da32b.png"
+      "src": "course/en/assets/2c892e598e3cfd41ff06c3b7a59a31ea49d13010.png"
     },
     "_id": "584928ce4d7b7e82691e4c28",
     "_parentId": "course",
@@ -85,7 +85,7 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "",
+    "body": "<p>Prioritising which data to publish openly can be an overwhelming decision. This module looks at how to prioritise which physical activities data to publish for the biggest impact.</p>\n",
     "displayTitle": "Prioritising data to publish openly",
     "title": "Prioritising data to publish openly",
     "_pageLevelProgress": {
@@ -105,15 +105,12 @@
           "outcome": "Explain why opportunity data should be a priority to publish in the physical activities sector"
         }
       ]
-    },
-    "_trackingHub": {
-      "_pageID": ""
     }
   },
   {
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/21d638508a78a46d2d0d79095fef8880344e76cb.png"
+      "src": "course/en/assets/ad9dde7114a0f52e48bd4578c4ebe5594a551cfe.png"
     },
     "_id": "584928f24d7b7e82691e4cf1",
     "_parentId": "course",
@@ -124,9 +121,13 @@
     "duration": "",
     "linkText": "View",
     "_classes": "color-ten",
-    "body": "",
+    "body": "<p>Publishing open physical activity data can bring benefits to organisations and individuals. &nbsp;For users to enjoy those benefits, the publishers need to ensure that their data is of good enough quality. This module looks at what quality data is, and how to minimise common errors.</p>\n",
     "displayTitle": "Ensuring quality data",
     "title": "Ensuring quality data",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -145,10 +146,6 @@
           "outcome": "Clean a dataset"
         }
       ]
-    },
-    "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
     }
   },
   {
@@ -164,10 +161,14 @@
     "_lockedBy": [],
     "duration": "",
     "linkText": "View",
-    "_classes": "",
+    "_classes": "hidden",
     "body": "",
     "displayTitle": "How do I create impact for my organisation from open data? (original)",
     "title": "How do I create impact for my organisation from open data? (original)",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -176,10 +177,6 @@
           "outcome": "Adapt open data to the relevant business"
         }
       ]
-    },
-    "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
     }
   },
   {
@@ -195,10 +192,14 @@
     "_lockedBy": [],
     "duration": "",
     "linkText": "View",
-    "_classes": "",
+    "_classes": "hidden",
     "body": "",
     "displayTitle": "Prioritising which data to publish (original)",
     "title": "Prioritising which data to publish (original)",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -207,10 +208,6 @@
           "outcome": "prioritise which data to publish"
         }
       ]
-    },
-    "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
     }
   },
   {
@@ -226,10 +223,14 @@
     "_lockedBy": [],
     "duration": "",
     "linkText": "View",
-    "_classes": "",
+    "_classes": "hidden",
     "body": "",
     "displayTitle": "How do I make sure I publish data in the right way? (original)",
     "title": "How do I make sure I publish data in the right way? (original)",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -238,10 +239,6 @@
           "outcome": "Understand the correct way to publish data"
         }
       ]
-    },
-    "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
     }
   }
 ]

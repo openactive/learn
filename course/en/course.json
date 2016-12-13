@@ -1,14 +1,5 @@
 {
   "_globals": {
-    "_extensions": {
-      "_pageLevelProgress": {
-        "optionalContent": "Optional Content",
-        "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
-        "pageLevelProgressMenuBar": "You have completed ",
-        "pageLevelProgressIndicatorBar": "Progress bar. Select here to view your current progress, and select an item to navigate to it. You have completed ",
-        "pageLevelProgress": "Page sections"
-      }
-    },
     "_accessibility": {
       "_accessibilityToggleTextOn": "Turn accessibility on?",
       "_accessibilityToggleTextOff": "Turn accessibility off?",
@@ -60,9 +51,15 @@
       },
       "_mcq": {
         "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
-      },
-      "_gmcq": {
-        "ariaRegion": "This component is a graphical multiple choice question. Once you have selected an option select the submit button below."
+      }
+    },
+    "_extensions": {
+      "_pageLevelProgress": {
+        "pageLevelProgress": "Page sections",
+        "pageLevelProgressIndicatorBar": "Progress bar. Select here to view your current progress, and select an item to navigate to it. You have completed ",
+        "pageLevelProgressMenuBar": "You have completed ",
+        "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
+        "optionalContent": "Optional Content"
       }
     }
   },
