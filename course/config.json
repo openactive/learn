@@ -22,6 +22,26 @@
     "_isEnabled": false
   },
   "__v": 0,
+  "_aboutPage": {
+    "_items": [
+      {
+        "_graphic": {
+          "src": "adapt/css/assets/logo-small.png",
+          "alt": "The Open Data Institute"
+        },
+        "description": "<p>Expert knowledge and content development provided by the&nbsp;Open Data Institute.</p>\n",
+        "title": "The Open Data Institute"
+      },
+      {
+        "title": "Adapt eLearning",
+        "description": "<p>Open source learning platform developed by&nbsp;Adapt elearning.</p>\n",
+        "_graphic": {
+          "alt": "Adapt eLearning",
+          "src": "adapt/css/assets/adapt.png"
+        }
+      }
+    ]
+  },
   "_tutor": {
     "_isEnabled": false
   },
@@ -29,12 +49,13 @@
     "includes": [
       "adapt-theme-se",
       "adapt-contrib-boxMenu",
-      "adapt-skillsFramework",
-      "adapt-contrib-tutor",
+      "adapt-contrib-aboutPage",
       "adapt-contrib-pageLevelProgress",
-      "adapt-contrib-mcq",
+      "adapt-contrib-tutor",
+      "adapt-skillsFramework",
       "adapt-contrib-graphic",
       "adapt-contrib-text",
+      "adapt-contrib-mcq",
       "adapt-contrib-narrative",
       "adapt-contrib-accordion"
     ]
