@@ -19,9 +19,13 @@
   "_accessibility": {
     "_isTextProcessorEnabled": false,
     "_shouldSupportLegacyBrowsers": true,
+    "_isDisabledOnTouchDevices": false,
     "_isEnabled": false
   },
   "__v": 0,
+  "_tutor": {
+    "_isEnabled": false
+  },
   "_aboutPage": {
     "_items": [
       {
@@ -39,20 +43,25 @@
           "alt": "Adapt eLearning",
           "src": "adapt/css/assets/adapt.png"
         }
+      },
+      {
+        "_graphic": {
+          "src": "adapt/css/assets/se-logo.png",
+          "alt": ""
+        },
+        "description": "<p>Sport England</p>",
+        "title": "Sport England"
       }
     ]
-  },
-  "_tutor": {
-    "_isEnabled": false
   },
   "build": {
     "includes": [
       "adapt-theme-se",
       "adapt-contrib-boxMenu",
-      "adapt-contrib-aboutPage",
-      "adapt-contrib-pageLevelProgress",
-      "adapt-contrib-tutor",
       "adapt-skillsFramework",
+      "adapt-contrib-tutor",
+      "adapt-contrib-pageLevelProgress",
+      "adapt-contrib-aboutPage",
       "adapt-contrib-graphic",
       "adapt-contrib-text",
       "adapt-contrib-mcq",

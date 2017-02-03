@@ -11,39 +11,6 @@
     "title": "Article title"
   },
   {
-    "_id": "5821e1594d7b7e82691e4140",
-    "_parentId": "5821e1594d7b7e82691e413f",
-    "_type": "article",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "body": "",
-    "displayTitle": "",
-    "title": "Article title"
-  },
-  {
-    "_id": "582477504d7b7e82691e41a8",
-    "_parentId": "582477504d7b7e82691e41a7",
-    "_type": "article",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "body": "",
-    "displayTitle": "",
-    "title": "Article title"
-  },
-  {
-    "_id": "5824a05c4d7b7e82691e4252",
-    "_parentId": "5824a05c4d7b7e82691e4251",
-    "_type": "article",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "body": "",
-    "displayTitle": "",
-    "title": "Article title"
-  },
-  {
     "_id": "584928ca4d7b7e82691e4bd3",
     "_parentId": "584928ca4d7b7e82691e4bd1",
     "_type": "article",

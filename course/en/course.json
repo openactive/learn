@@ -98,10 +98,10 @@
     "remainingAttemptText": "final attempt",
     "disabledAriaLabel": "This button is disabled at the moment"
   },
-  "_latestTrackingId": 74,
+  "_latestTrackingId": 41,
   "body": "",
-  "displayTitle": "Physical Activity Data Course",
-  "title": "Physical Activity Data Course",
+  "displayTitle": "Physical Activity Open Data Course",
+  "title": "Physical Activity Open Data Course",
   "_pageLevelProgress": {
     "_isEnabled": true,
     "_showPageCompletion": true
