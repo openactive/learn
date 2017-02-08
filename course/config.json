@@ -29,28 +29,36 @@
   "_aboutPage": {
     "_items": [
       {
-        "_graphic": {
-          "src": "adapt/css/assets/logo-small.png",
-          "alt": "The Open Data Institute"
-        },
+        "title": "The Open Data Institute",
         "description": "<p>Expert knowledge and content development provided by the&nbsp;Open Data Institute.</p>\n",
-        "title": "The Open Data Institute"
+        "_graphic": {
+          "alt": "The Open Data Institute",
+          "src": "adapt/css/assets/logo-small.png"
+        }
       },
       {
-        "title": "Adapt eLearning",
-        "description": "<p>Open source learning platform developed by&nbsp;Adapt elearning.</p>\n",
         "_graphic": {
-          "alt": "Adapt eLearning",
-          "src": "adapt/css/assets/adapt.png"
-        }
+          "src": "adapt/css/assets/adapt.png",
+          "alt": "Adapt eLearning"
+        },
+        "description": "<p>Open source learning platform developed by&nbsp;Adapt elearning.</p>\n",
+        "title": "Adapt eLearning"
       },
       {
         "_graphic": {
           "src": "adapt/css/assets/se-logo.png",
           "alt": ""
         },
-        "description": "<p>Sport England</p>",
+        "description": "<p>Our vision is to get more people active across England &ndash; regardless of age, background or ability. Sport England.</p>",
         "title": "Sport England"
+      },
+      {
+        "_graphic": {
+          "src": "",
+          "alt": ""
+        },
+        "description": "<p>OpenActive is an ambitious, community-led initiative for change across the sport and physical activity sector, which promotes the use of opportunity data to help people get active (coordinated by the ODI).</p>",
+        "title": "OpenActive"
       }
     ]
   },
