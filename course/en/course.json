@@ -37,6 +37,10 @@
       }
     },
     "_components": {
+      "_media": {
+        "transcriptButton": "Alternatively you can select the link below for the transcript.",
+        "ariaRegion": "This is a media component which plays a video. Select the play / pause button to watch or listen."
+      },
       "_accordion": {
         "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
       },
@@ -51,6 +55,9 @@
       },
       "_narrative": {
         "ariaRegion": "This component displays an image gallery with accompanying text. Use the next and back navigation controls to work through the narrative."
+      },
+      "_matching": {
+        "ariaRegion": "This question component requires you to select the matching answer from a drop down list below. When you have selected your answers select the submit button."
       }
     },
     "_extensions": {
@@ -98,7 +105,7 @@
     "remainingAttemptText": "final attempt",
     "disabledAriaLabel": "This button is disabled at the moment"
   },
-  "_latestTrackingId": 41,
+  "_latestTrackingId": 67,
   "body": "",
   "displayTitle": "Physical Activity Open Data Course",
   "title": "Physical Activity Open Data Course",

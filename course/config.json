@@ -99,8 +99,10 @@
       "adapt-contrib-graphic",
       "adapt-contrib-text",
       "adapt-contrib-mcq",
+      "adapt-contrib-accordion",
+      "adapt-contrib-media",
       "adapt-contrib-narrative",
-      "adapt-contrib-accordion"
+      "adapt-contrib-matching"
     ]
   }
 }

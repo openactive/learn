@@ -13,9 +13,13 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "<p>Understanding open data is the first step to using it. This module looks at what open data is, and why it it is needed in&nbsp;the physical activity sector.</p>\n",
+    "body": "<p>Understanding open data is the first step to using it. This module looks at what open data is, and why it it is needed in&nbsp;the physical activity sector.</p>",
     "displayTitle": "1. Open data in the physical activity sector",
     "title": "1. Open data in the physical activity sector",
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -29,10 +33,6 @@
           "level": "explorer"
         }
       ]
-    },
-    "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
     },
     "_trackingHub": {
       "_pageID": ""
@@ -155,6 +155,88 @@
           "level": "practitioner"
         }
       ]
+    },
+    "_trackingHub": {
+      "_pageID": ""
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/25938608af908a0b49bc84cd8a11689f7203a51c.jpg"
+    },
+    "_id": "58d17f03d084d5167a04ba01",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>In previous modules we&#39;ve looked at what open means. In this module we will explore different degrees of openness, what the future looks like and the journey to get there.</p>",
+    "displayTitle": "5. The potential futures of physical activity data",
+    "title": "5. The potential futures of physical activity data",
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "level": "explorer",
+          "credits": 5,
+          "outcome": "List the three data futures"
+        },
+        {
+          "level": "explorer",
+          "credits": 5,
+          "outcome": "List a number of datasets that fit in each future"
+        },
+        {
+          "level": "strategist",
+          "credits": 5,
+          "outcome": "Match physical activity data to the appropriate future"
+        },
+        {
+          "level": "strategist",
+          "credits": 5,
+          "outcome": "Explain the process for choosing a data future"
+        },
+        {
+          "level": "strategist",
+          "credits": 5,
+          "outcome": "Address challenges related to an open data future"
+        }
+      ]
+    },
+    "_trackingHub": {
+      "_pageID": ""
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/677d7326397675056792ef0a6e45ff881c10f712.jpg"
+    },
+    "_id": "594a4e5ad084d5167a04ffb6",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>One of the big questions that comes with opening up data is &#39;what will happen to those operating in the sector and how will their businesses be affected?&#39;. This module looks at how the current market and the impact an open future will have on businesses&nbsp;within the physical activity sector.</p>",
+    "displayTitle": "6. Business in an open data-led physical activity sector",
+    "title": "6. Business in an open data-led physical activity sector",
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
+    "_skillsFramework": {
+      "_skills": []
     },
     "_trackingHub": {
       "_pageID": ""
