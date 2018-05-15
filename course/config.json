@@ -9,7 +9,6 @@
     "medium": 759,
     "small": 519
   },
-  "_id": "581c767d4d7b7e82691e408a",
   "_drawer": {
     "_duration": 400,
     "_hideEasing": "easeInQuart",
@@ -23,48 +22,7 @@
     "_isEnabled": false
   },
   "__v": 0,
-  "_tutor": {
-    "_isEnabled": false
-  },
-  "_licencePage": {
-    "licence": "CC-BY-SA 4.0"
-  },
-  "_aboutPage": {
-    "_items": [
-      {
-        "_graphic": {
-          "src": "adapt/css/assets/logo-small.png",
-          "alt": "The Open Data Institute"
-        },
-        "description": "<p>Expert knowledge and content development provided by the&nbsp;Open Data Institute.</p>\n",
-        "title": "The Open Data Institute"
-      },
-      {
-        "title": "Adapt eLearning",
-        "description": "<p>Open source learning platform developed by&nbsp;Adapt elearning.</p>\n",
-        "_graphic": {
-          "alt": "Adapt eLearning",
-          "src": "adapt/css/assets/adapt.png"
-        }
-      },
-      {
-        "title": "Sport England",
-        "description": "<p>Our vision is to get more people active across England &ndash; regardless of age, background or ability. Sport England.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "adapt/css/assets/se-logo.png"
-        }
-      },
-      {
-        "_graphic": {
-          "src": "adapt/css/assets/openactive-badge-large-white.png",
-          "alt": ""
-        },
-        "description": "<p>OpenActive is an ambitious, community-led initiative for change across the sport and physical activity sector, which promotes the use of opportunity data to help people get active (coordinated by the ODI).</p>",
-        "title": "OpenActive"
-      }
-    ]
-  },
+  "_id": "581c767d4d7b7e82691e408a",
   "_trackingHub": {
     "_channels": [
       {
@@ -86,22 +44,26 @@
     "_courseID": "https://www.openactive.io/learn/",
     "_isEnabled": true
   },
+  "_tutor": {
+    "_isEnabled": false
+  },
   "build": {
     "includes": [
       "adapt-theme-se",
       "adapt-contrib-boxMenu",
-      "adapt-trackingHub",
       "adapt-odi-licence",
-      "adapt-skillsFramework",
-      "adapt-contrib-tutor",
       "adapt-contrib-pageLevelProgress",
+      "adapt-contrib-tutor",
+      "adapt-skillsFramework",
+      "adapt-trackingHub",
       "adapt-contrib-aboutPage",
-      "adapt-contrib-graphic",
+      "adapt-odi-footerLink",
       "adapt-contrib-text",
-      "adapt-contrib-mcq",
-      "adapt-contrib-accordion",
-      "adapt-contrib-media",
+      "adapt-contrib-graphic",
       "adapt-contrib-narrative",
+      "adapt-contrib-accordion",
+      "adapt-contrib-mcq",
+      "adapt-contrib-media",
       "adapt-contrib-matching"
     ]
   }

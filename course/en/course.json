@@ -1,4 +1,5 @@
 {
+  "_id": "course",
   "_globals": {
     "_accessibility": {
       "accessibilityToggleTextOn": "Turn accessibility on?",
@@ -37,27 +38,27 @@
       }
     },
     "_components": {
-      "_media": {
-        "transcriptButton": "Alternatively you can select the link below for the transcript.",
-        "ariaRegion": "This is a media component which plays a video. Select the play / pause button to watch or listen."
-      },
-      "_accordion": {
-        "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
-      },
       "_graphic": {
         "ariaRegion": ""
-      },
-      "_mcq": {
-        "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
       },
       "_text": {
         "ariaRegion": ""
       },
-      "_narrative": {
-        "ariaRegion": "This component displays an image gallery with accompanying text. Use the next and back navigation controls to work through the narrative."
+      "_media": {
+        "ariaRegion": "This is a media component which plays a video. Select the play / pause button to watch or listen.",
+        "transcriptButton": "Alternatively you can select the link below for the transcript."
       },
       "_matching": {
         "ariaRegion": "This question component requires you to select the matching answer from a drop down list below. When you have selected your answers select the submit button."
+      },
+      "_mcq": {
+        "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
+      },
+      "_narrative": {
+        "ariaRegion": "This component displays an image gallery with accompanying text. Use the next and back navigation controls to work through the narrative."
+      },
+      "_accordion": {
+        "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
       }
     },
     "_extensions": {
@@ -67,10 +68,33 @@
         "pageLevelProgressMenuBar": "You have completed ",
         "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
         "optionalContent": "Optional Content"
+      },
+      "_skillsFramework": {
+        "linkText": "Outcomes",
+        "titleText": "Learning outcomes"
+      },
+      "_aboutPage": {
+        "linkText": "About",
+        "titleText": "About",
+        "contactEMail": "training@theodi.org",
+        "contactLinkText": "Contact",
+        "aboutCredit": "",
+        "SL_text": "",
+        "SL_facebook": "MyODIHQ",
+        "SL_flickr": "ukodi",
+        "SL_github": "theodi",
+        "SL_scribd": "OpenDataInstitute",
+        "SL_soundcloud": "theodi",
+        "SL_twitter": "ODIHQ",
+        "SL_vimeo": "theodiuk",
+        "SL_youtube": "OpenDataInstituteUK"
+      },
+      "_ODILicence": {
+        "linkText": "Licence",
+        "titleText": "Licence"
       }
     }
   },
-  "_id": "course",
   "_start": {
     "_isEnabled": false,
     "_startIds": [],
@@ -112,5 +136,106 @@
   "_pageLevelProgress": {
     "_isEnabled": true,
     "_showPageCompletion": true
+  },
+  "_aboutPage": {
+    "_items": [
+      {
+        "title": "The Open Data Institute",
+        "description": "<p>Expert knowledge and content development provided by the&nbsp;Open Data Institute.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "adapt/css/assets/logo-small.png"
+        }
+      },
+      {
+        "title": "Adapt eLearning",
+        "description": "<p>Open source learning platform developed by&nbsp;Adapt elearning.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "adapt/css/assets/adapt.png"
+        }
+      },
+      {
+        "title": "Sport England",
+        "description": "<p>Our vision is to get more people active across England &ndash; regardless of age, background or ability. Sport England.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "adapt/css/assets/se-logo.png"
+        }
+      },
+      {
+        "title": "OpenActive",
+        "description": "<p>OpenActive is an ambitious, community-led initiative for change across the sport and physical activity sector, which promotes the use of opportunity data to help people get active (coordinated by the ODI).</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "adapt/css/assets/openactive-badge-large-white.png"
+        }
+      }
+    ]
+  },
+  "_ODILicence": {
+    "_items": [
+      {
+        "title": "",
+        "description": "<p>Physical Activity Open Data Course eLearning by Open Data Institute is licensed under a Creative Commons Attribution-ShareAlike 4.0 International Licence</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "https://licensebuttons.net/l/by-sa/4.0/88x31.png"
+        }
+      },
+      {
+        "title": "Content usage",
+        "description": "<p>The content, including text and structure is available for you to&nbsp;<em>use</em>,&nbsp;<em>reuse</em>&nbsp;and&nbsp;<em>share</em>&nbsp;(including for commercial purposes) subject to the conditions of the licence above.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "title": "Exclusions",
+        "description": "<p>This licence does not cover:</p><ul><li>Logos and trade marks belonging to the Open Data Institute</li><li>Third party content (such as images)</li><li>Any other content as outlined under &#39;About&#39;</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "title": "Non-endorsement",
+        "description": "<p>This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider and/or Licensor endorse you or your use of the Information.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "title": "No warranty",
+        "description": "<p>The Information is licensed &#39;as is&#39;. The Open Data Institute is not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      }
+    ]
+  },
+  "_trackingHub": {
+    "saveTitle": "Save your progress, resume anytime...",
+    "saveBody": "<p>Please enter your&nbsp;email&nbsp;address in the box below. You will receive an email linking to your unique profile so you can save your progress and resume your learning on any device.</p>",
+    "fields": [
+      {
+        "id": "email",
+        "title": "email",
+        "type": "email",
+        "placeholder": "Email address",
+        "required": true
+      }
+    ]
+  },
+  "_FooterLink": {
+    "_items": [
+      {
+        "title": "Privacy policy",
+        "link": "https://www.openactive.io/privacy-and-cookie-policy"
+      }
+    ]
   }
 }
