@@ -4,26 +4,34 @@
   "_questionWeight": 1,
   "_generateSourcemap": false,
   "_forceRouteLocking": true,
-  "screenSize": {
-    "large": 1024,
-    "medium": 759,
-    "small": 519
-  },
-  "_drawer": {
-    "_duration": 400,
-    "_hideEasing": "easeInQuart",
-    "_showEasing": "easeOutQuart"
+  "_id": "581c767d4d7b7e82691e408a",
+  "__v": 0,
+  "_accessibility": {
+    "_isEnabled": false,
+    "_isEnabledOnTouchDevices": false,
+    "_shouldSupportLegacyBrowsers": true,
+    "_isTextProcessorEnabled": false,
+    "_isSkipNavigationEnabled": false
   },
   "_courseId": "581c767d4d7b7e82691e4089",
-  "_accessibility": {
-    "_isTextProcessorEnabled": false,
-    "_shouldSupportLegacyBrowsers": true,
-    "_isDisabledOnTouchDevices": false,
-    "_isEnabled": false
+  "_drawer": {
+    "_showEasing": "easeOutQuart",
+    "_hideEasing": "easeInQuart",
+    "_duration": 400
   },
-  "__v": 0,
-  "_id": "581c767d4d7b7e82691e408a",
+  "screenSize": {
+    "small": 519,
+    "medium": 759,
+    "large": 1024
+  },
+  "_logging": {
+    "_isEnabled": false,
+    "_level": null,
+    "_console": false
+  },
   "_trackingHub": {
+    "_isEnabled": true,
+    "_courseID": "https://www.openactive.io/learn/",
     "_channels": [
       {
         "_isStateSource": true,
@@ -40,12 +48,7 @@
         "_isEnabled": true,
         "_name": "ODI LRS"
       }
-    ],
-    "_courseID": "https://www.openactive.io/learn/",
-    "_isEnabled": true
-  },
-  "_tutor": {
-    "_isEnabled": false
+    ]
   },
   "build": {
     "includes": [
