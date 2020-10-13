@@ -52,22 +52,22 @@
   },
   "build": {
     "includes": [
-      "adapt-theme-se",
       "adapt-contrib-boxMenu",
-      "adapt-odi-licence",
-      "adapt-contrib-pageLevelProgress",
-      "adapt-contrib-tutor",
-      "adapt-skillsFramework",
-      "adapt-trackingHub",
-      "adapt-contrib-aboutPage",
-      "adapt-odi-footerLink",
+      "579b741bf399990a1aefebe2",
       "adapt-contrib-text",
       "adapt-contrib-graphic",
       "adapt-contrib-narrative",
       "adapt-contrib-accordion",
       "adapt-contrib-mcq",
       "adapt-contrib-media",
-      "adapt-contrib-matching"
+      "adapt-contrib-matching",
+      "adapt-odi-licence",
+      "adapt-contrib-pageLevelProgress",
+      "adapt-contrib-tutor",
+      "adapt-skillsFramework",
+      "adapt-trackingHub",
+      "adapt-contrib-aboutPage",
+      "adapt-odi-footerLink"
     ]
   }
 }

@@ -450,19 +450,24 @@
     "_type": "block"
   },
   {
-    "title": "   ",
-    "displayTitle": "   ",
+    "title": "   What are the badges that indicate quality for data?",
+    "displayTitle": "",
     "body": "",
-    "_classes": "inverted color-ten",
+    "_classes": "inverted color-ten hidden",
     "_trackingId": 31,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
-    "_isHidden": false,
+    "_isHidden": true,
     "_isVisible": true,
     "_id": "584928f24d7b7e82691e4cfc",
     "_parentId": "584928f24d7b7e82691e4cf3",
-    "_type": "block"
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
   },
   {
     "title": " ",
@@ -570,26 +575,11 @@
     "_type": "block"
   },
   {
-    "title": "   ",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "color-ten",
-    "_trackingId": 39,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "584928f24d7b7e82691e4cfb",
-    "_parentId": "584928f24d7b7e82691e4cf3",
-    "_type": "block"
-  },
-  {
     "title": " ",
     "displayTitle": " ",
     "body": "",
     "_classes": "color-nine",
-    "_trackingId": 40,
+    "_trackingId": 39,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -604,7 +594,7 @@
     "displayTitle": " ",
     "body": "",
     "_classes": "",
-    "_trackingId": 41,
+    "_trackingId": 40,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -613,6 +603,26 @@
     "_id": "594b9675d084d5167a05008b",
     "_parentId": "594a4e5ad084d5167a04ffb8",
     "_type": "block"
+  },
+  {
+    "title": "   How can I quickly and easily improve my data quality?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-ten inverted",
+    "_trackingId": 41,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "584928f24d7b7e82691e4cfb",
+    "_parentId": "584928f24d7b7e82691e4cf3",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
   },
   {
     "title": " ",
@@ -645,26 +655,11 @@
     "_type": "block"
   },
   {
-    "title": "   ",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "color-six inverted section-banner",
-    "_trackingId": 44,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "584928f24d7b7e82691e4cfe",
-    "_parentId": "584928f24d7b7e82691e4cf3",
-    "_type": "block"
-  },
-  {
     "title": " ",
     "displayTitle": " ",
     "body": "",
     "_classes": "inverted color-six",
-    "_trackingId": 45,
+    "_trackingId": 44,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -679,7 +674,7 @@
     "displayTitle": " ",
     "body": "",
     "_classes": "color-nine inverted",
-    "_trackingId": 46,
+    "_trackingId": 45,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -694,7 +689,7 @@
     "displayTitle": " ",
     "body": "",
     "_classes": "inverted color-one",
-    "_trackingId": 47,
+    "_trackingId": 46,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -703,6 +698,26 @@
     "_id": "594b9725d084d5167a05008e",
     "_parentId": "594a4e5ad084d5167a04ffb8",
     "_type": "block"
+  },
+  {
+    "title": "   Are you ready to ensure quality open data?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-six section-banner",
+    "_trackingId": 47,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "584928f24d7b7e82691e4cfe",
+    "_parentId": "584928f24d7b7e82691e4cf3",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
   },
   {
     "title": "    ",
@@ -735,10 +750,10 @@
     "_type": "block"
   },
   {
-    "title": "   ",
-    "displayTitle": "   ",
+    "title": "   What makes open data useable?",
+    "displayTitle": "",
     "body": "",
-    "_classes": "color-six",
+    "_classes": "color-six inverted",
     "_trackingId": 50,
     "instruction": "",
     "_isOptional": false,
@@ -747,7 +762,12 @@
     "_isVisible": true,
     "_id": "584928f24d7b7e82691e4cf6",
     "_parentId": "584928f24d7b7e82691e4cf3",
-    "_type": "block"
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
   },
   {
     "title": " ",
@@ -825,10 +845,10 @@
     "_type": "block"
   },
   {
-    "title": "    ",
-    "displayTitle": "    ",
+    "title": "    Technical considerations",
+    "displayTitle": "",
     "body": "",
-    "_classes": "inverted color-six",
+    "_classes": "color-six",
     "_trackingId": 56,
     "instruction": "",
     "_isOptional": false,
@@ -837,7 +857,12 @@
     "_isVisible": true,
     "_id": "584928f24d7b7e82691e4cf4",
     "_parentId": "584928f24d7b7e82691e4cf3",
-    "_type": "block"
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
   },
   {
     "title": " ",
@@ -930,19 +955,24 @@
     "_type": "block"
   },
   {
-    "title": "   ",
-    "displayTitle": "   ",
+    "title": "   Badges that indicate quality",
+    "displayTitle": "",
     "body": "",
-    "_classes": "color-six",
+    "_classes": "color-six hidden",
     "_trackingId": 63,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
-    "_isHidden": false,
+    "_isHidden": true,
     "_isVisible": true,
     "_id": "584928f24d7b7e82691e4cf5",
     "_parentId": "584928f24d7b7e82691e4cf3",
-    "_type": "block"
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
   },
   {
     "title": "   ",

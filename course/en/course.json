@@ -72,11 +72,29 @@
       "_text": {
         "ariaRegion": ""
       },
+      "_hotgraphic": {
+        "ariaRegion": "Below is a component which allows you to select hot spots over an image. Select a hot spot to trigger a popup that includes an image with display text. Select the close button to close the popup.",
+        "ariaPopupLabel": "Hotgraphic popup"
+      },
       "_accordion": {
         "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
       },
       "_mcq": {
         "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
+      },
+      "_jsonschema": {
+        "ariaRegion": "This question requires you to input your answer in the codebox provided. When you have done so, select the submit button below."
+      },
+      "_dragndrop": {
+        "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
+      },
+      "_notify-imagegrid": {
+        "ariaRegion": "This component contains images laid out in a flexible grid."
+      },
+      "_slider": {
+        "ariaRegion": "Slider. Respond to the question by selecting a value on the scale and then submit.",
+        "labelStart": "Start of the scale",
+        "labelEnd": "End of the scale"
       },
       "_narrative": {
         "ariaRegion": "This component displays an image gallery with accompanying text. Use the next and back navigation controls to work through the narrative."
@@ -85,8 +103,20 @@
         "ariaRegion": "This is a media component which plays a video. Select the play / pause button to watch or listen.",
         "transcriptButton": "Alternatively you can select the link below for the transcript."
       },
+      "_media-autoplay": {
+        "ariaRegion": "This is a media player component. Select the play / pause button to watch or listen.",
+        "transcriptButton": "Alternatively you can select the link below for the transcript.",
+        "ariaTranscriptLabel": "Transcript",
+        "ariaCaptionsLabel": "Subtitles"
+      },
       "_matching": {
         "ariaRegion": "This question component requires you to select the matching answer from a drop down list below. When you have selected your answers select the submit button."
+      },
+      "_textinput": {
+        "ariaRegion": "Text input. Type your answer and then submit."
+      },
+      "_gmcq": {
+        "ariaRegion": "This is a graphical multiple choice question. Once you have selected an option, select the submit button below."
       }
     },
     "_extensions": {
@@ -130,26 +160,41 @@
     "_isEnabled": false
   },
   "_type": "course",
-  "_FooterLink": {
+  "_aboutPage": {
     "_items": [
       {
-        "link": "https://www.openactive.io/privacy-and-cookie-policy",
-        "title": "Privacy policy"
+        "_graphic": {
+          "src": "adapt/css/assets/logo-small.png",
+          "alt": ""
+        },
+        "description": "<p>Expert knowledge and content development provided by the&nbsp;Open Data Institute.</p>",
+        "title": "The Open Data Institute"
+      },
+      {
+        "_graphic": {
+          "src": "adapt/css/assets/adapt.png",
+          "alt": ""
+        },
+        "description": "<p>Open source learning platform developed by&nbsp;Adapt elearning.</p>",
+        "title": "Adapt eLearning"
+      },
+      {
+        "_graphic": {
+          "src": "adapt/css/assets/se-logo.png",
+          "alt": ""
+        },
+        "description": "<p>Our vision is to get more people active across England &ndash; regardless of age, background or ability. Sport England.</p>",
+        "title": "Sport England"
+      },
+      {
+        "_graphic": {
+          "src": "adapt/css/assets/openactive-badge-large-white.png",
+          "alt": ""
+        },
+        "description": "<p>OpenActive is an ambitious, community-led initiative for change across the sport and physical activity sector, which promotes the use of opportunity data to help people get active (coordinated by the ODI).</p>",
+        "title": "OpenActive"
       }
     ]
-  },
-  "_trackingHub": {
-    "fields": [
-      {
-        "required": true,
-        "placeholder": "Email address",
-        "type": "email",
-        "title": "email",
-        "id": "email"
-      }
-    ],
-    "saveBody": "<p>Please enter your&nbsp;email&nbsp;address in the box below. You will receive an email linking to your unique profile so you can save your progress and resume your learning on any device.</p>",
-    "saveTitle": "Save your progress, resume anytime..."
   },
   "_ODILicence": {
     "_items": [
@@ -195,44 +240,29 @@
       }
     ]
   },
-  "_aboutPage": {
+  "_trackingHub": {
+    "saveTitle": "Save your progress, resume anytime...",
+    "saveBody": "<p>Please enter your&nbsp;email&nbsp;address in the box below. You will receive an email linking to your unique profile so you can save your progress and resume your learning on any device.</p>",
+    "fields": [
+      {
+        "required": true,
+        "placeholder": "Email address",
+        "type": "email",
+        "title": "email",
+        "id": "email"
+      }
+    ]
+  },
+  "_FooterLink": {
     "_items": [
       {
-        "_graphic": {
-          "src": "adapt/css/assets/logo-small.png",
-          "alt": ""
-        },
-        "description": "<p>Expert knowledge and content development provided by the&nbsp;Open Data Institute.</p>",
-        "title": "The Open Data Institute"
-      },
-      {
-        "_graphic": {
-          "src": "adapt/css/assets/adapt.png",
-          "alt": ""
-        },
-        "description": "<p>Open source learning platform developed by&nbsp;Adapt elearning.</p>",
-        "title": "Adapt eLearning"
-      },
-      {
-        "_graphic": {
-          "src": "adapt/css/assets/se-logo.png",
-          "alt": ""
-        },
-        "description": "<p>Our vision is to get more people active across England &ndash; regardless of age, background or ability. Sport England.</p>",
-        "title": "Sport England"
-      },
-      {
-        "_graphic": {
-          "src": "adapt/css/assets/openactive-badge-large-white.png",
-          "alt": ""
-        },
-        "description": "<p>OpenActive is an ambitious, community-led initiative for change across the sport and physical activity sector, which promotes the use of opportunity data to help people get active (coordinated by the ODI).</p>",
-        "title": "OpenActive"
+        "title": "Privacy policy",
+        "link": "https://www.openactive.io/privacy-policy/"
       }
     ]
   },
   "_pageLevelProgress": {
-    "_showPageCompletion": true,
-    "_isEnabled": true
+    "_isEnabled": true,
+    "_showPageCompletion": true
   }
 }
